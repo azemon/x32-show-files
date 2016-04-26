@@ -1,0 +1,15 @@
+#2.1# "Voice off&All on" 128 67583 3 0 1                                                                                       
+/ch/01/mix/on ON
+/ch/02/mix/on ON
+/ch/03/mix/on ON
+/ch/04/mix/on ON
+/ch/05/mix/on ON
+/ch/06/mix/on ON
+/ch/07/mix/on ON
+/ch/08/mix/on ON
+/ch/09/mix/on ON
+/ch/10/mix/on ON
+/ch/11/mix/on ON
+/ch/17/mix/on OFF
+/auxin/01/mix/on ON
+/auxin/02/mix/on ON

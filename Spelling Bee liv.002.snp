@@ -1,0 +1,76 @@
+#2.1# "Init monitors" 255 0 2031616 0 1                                                                                        
+/bus/01/config "Stage mon" 64 CY
+/bus/01/eq OFF
+/bus/01/eq/1 LShv 79.6 +0.00 2.0
+/bus/01/eq/2 PEQ 158.9 +0.00 2.0
+/bus/01/eq/3 PEQ 496.6 +0.00 2.0
+/bus/01/eq/4 PEQ 1k97 +0.00 2.0
+/bus/01/eq/5 PEQ 5k02 +0.00 2.0
+/bus/01/eq/6 HShv 10k02 +0.00 2.0
+/bus/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/bus/01/dyn/filter OFF 3.0 990.9
+/bus/01/insert OFF PRE OFF
+/bus/01/grp %00000000 %000000
+/bus/01/mix/fader  -0.5
+/bus/01/mix/pan +0
+/bus/01/mix/on ON
+/bus/02/config "Green Room" 64 CY
+/bus/02/eq OFF
+/bus/02/eq/1 LShv 79.6 +0.00 2.0
+/bus/02/eq/2 PEQ 158.9 +0.00 2.0
+/bus/02/eq/3 PEQ 496.6 +0.00 2.0
+/bus/02/eq/4 PEQ 1k97 +0.00 2.0
+/bus/02/eq/5 PEQ 5k02 +0.00 2.0
+/bus/02/eq/6 HShv 10k02 +0.00 2.0
+/bus/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/bus/02/dyn/filter OFF 3.0 990.9
+/bus/02/insert OFF PRE OFF
+/bus/02/grp %00000000 %000000
+/bus/02/mix/fader -35.6
+/bus/02/mix/pan +0
+/bus/02/mix/on ON
+/bus/03/config "PA Speaker" 63 CY
+/bus/03/eq ON
+/bus/03/eq/1 LShv 79.6 +0.00 2.0
+/bus/03/eq/2 PEQ 158.9 +0.00 2.0
+/bus/03/eq/3 PEQ 701.5 -5.50 7.4
+/bus/03/eq/4 PEQ 1k97 +0.00 2.0
+/bus/03/eq/5 PEQ 5k02 +0.00 2.0
+/bus/03/eq/6 HShv 10k02 +0.00 2.0
+/bus/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/bus/03/dyn/filter OFF 3.0 990.9
+/bus/03/insert OFF PRE OFF
+/bus/03/grp %00000000 %000000
+/bus/03/mix/fader  -2.6
+/bus/03/mix/pan +0
+/bus/03/mix/on ON
+/bus/04/config "Band mon" 64 CY
+/bus/04/eq ON
+/bus/04/eq/1 PEQ 85.3 -9.75 3.2
+/bus/04/eq/2 PEQ 158.9 +0.00 2.0
+/bus/04/eq/3 PEQ 496.6 +0.00 2.0
+/bus/04/eq/4 PEQ 1k97 +0.00 2.0
+/bus/04/eq/5 PEQ 5k02 +0.00 2.0
+/bus/04/eq/6 HShv 10k02 +0.00 2.0
+/bus/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/bus/04/dyn/filter OFF 3.0 990.9
+/bus/04/insert OFF PRE OFF
+/bus/04/grp %00000000 %000000
+/bus/04/mix/fader -27.1
+/bus/04/mix/pan +0
+/bus/04/mix/on ON
+/bus/05/config "Chase" 62 CY
+/bus/05/eq OFF
+/bus/05/eq/1 LShv 79.6 +0.00 2.0
+/bus/05/eq/2 PEQ 158.9 +0.00 2.0
+/bus/05/eq/3 PEQ 496.6 +0.00 2.0
+/bus/05/eq/4 PEQ 1k97 +0.00 2.0
+/bus/05/eq/5 PEQ 5k02 +0.00 2.0
+/bus/05/eq/6 HShv 10k02 +0.00 2.0
+/bus/05/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/bus/05/dyn/filter OFF 3.0 990.9
+/bus/05/insert OFF PRE OFF
+/bus/05/grp %00000000 %000000
+/bus/05/mix/fader   -oo
+/bus/05/mix/pan +0
+/bus/05/mix/on OFF

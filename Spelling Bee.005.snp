@@ -1,0 +1,5 @@
+#2.1# "Rona & Voice on" 128 65600 3 0 1                                                                                        
+/ch/07/mix/on ON
+/ch/17/mix/on ON
+/auxin/01/mix/on OFF
+/auxin/02/mix/on OFF
