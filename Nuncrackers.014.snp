@@ -1,9 +1,10 @@
-#2.1# "The kids exit" 0 0 0 0 0
+#2.1# "Christmas Time is Nunsense Time" 0 0 0 0 0
 /ch/06/mix/on OFF
 /ch/07/mix/on OFF
 /ch/08/mix/on OFF
 /ch/09/mix/on OFF
 /ch/10/mix/on OFF
+/ch/11/mix/on OFF
 /ch/12/mix/on OFF
 /ch/13/mix/on OFF
 /ch/14/mix/on OFF
@@ -19,7 +20,7 @@
 /ch/08/grp/dca 0
 /ch/09/grp/dca 0
 /ch/10/grp/dca 0
-/ch/11/grp/dca 128
+/ch/11/grp/dca 0
 /ch/12/grp/dca 0
 /ch/13/grp/dca 0
 /ch/14/grp/dca 0
@@ -30,7 +31,6 @@
 /ch/03/mix/on ON
 /ch/04/mix/on ON
 /ch/05/mix/on ON
-/ch/11/mix/on ON
 /dca/1/config/name "Rev Mother"
 /dca/1/config/color WH
 /dca/2/config/name "Hubert"
@@ -45,5 +45,5 @@
 /dca/6/config/color OFF
 /dca/7/config/name ""
 /dca/7/config/color OFF
-/dca/8/config/name "Stage Mgr"
-/dca/8/config/color WH
+/dca/8/config/name ""
+/dca/8/config/color OFF

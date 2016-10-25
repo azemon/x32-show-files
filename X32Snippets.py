@@ -117,13 +117,13 @@ if __name__ == "__main__":
 		cue = str(ods_cell(ods, row_index, CUE_COL))
 		
 		# report scene
-		print "Found new Scene '" + scene + "'"
+		print "Found new Scene '" + scene + "'" + " Cue '" + cue + "'"
 			
 		# open snippet file
 		snp_file = open(show_name + '.' + str(snp_index).zfill(3) + '.snp', 'w')
 		
 		# start snippet
-		snp_file.write('#2.1# "' + cue + '" 0 0 0 0 0\n')
+		snp_file.write('#2.1# "' + cue.replace('"', '') + '" 0 0 0 0 0\n')
 		
 		# first we find which channels in this cue have any DCA assignment and therefore need to be unmuted
 		cue_mutes = []

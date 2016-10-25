@@ -1,4 +1,4 @@
-#2.6# "top of show" "" %000000000 1                                                                                            
+#2.6# "power on" "" %000000000 1                                                                                               
 /config/chlink OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
 /config/auxlink ON ON OFF OFF
 /config/fxlink ON ON ON ON
@@ -1862,21 +1862,21 @@
 /main/m/mix/04 ON   -oo
 /main/m/mix/05 ON   -oo +0 POST
 /main/m/mix/06 ON   -oo
-/dca/1 ON   -oo
+/dca/1 ON   0.0
 /dca/1/config "" 1 OFF
-/dca/2 ON   -oo
+/dca/2 ON   0.0
 /dca/2/config "" 1 OFF
-/dca/3 ON   -oo
+/dca/3 ON   0.0
 /dca/3/config "" 1 OFF
-/dca/4 ON   -oo
+/dca/4 ON   0.0
 /dca/4/config "" 1 OFF
-/dca/5 ON   -oo
+/dca/5 ON   0.0
 /dca/5/config "" 1 OFF
-/dca/6 ON   -oo
+/dca/6 ON   0.0
 /dca/6/config "" 1 OFF
-/dca/7 ON   -oo
+/dca/7 ON   0.0
 /dca/7/config "" 1 OFF
-/dca/8 ON   -oo
+/dca/8 ON   0.0
 /dca/8/config "" 1 OFF
 /fx/1 VRM
 /fx/1/source MIX13 MIX13
