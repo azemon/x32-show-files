@@ -15,6 +15,11 @@
 /ch/14/mix/on OFF
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
+/ch/17/mix/on OFF
+/ch/18/mix/on OFF
+/ch/19/mix/on OFF
+/ch/20/mix/on OFF
+/ch/21/mix/on OFF
 /ch/01/grp/dca 0
 /ch/02/grp/dca 0
 /ch/03/grp/dca 0
@@ -31,6 +36,11 @@
 /ch/14/grp/dca 0
 /ch/15/grp/dca 0
 /ch/16/grp/dca 0
+/ch/17/grp/dca 0
+/ch/18/grp/dca 0
+/ch/19/grp/dca 0
+/ch/20/grp/dca 0
+/ch/21/grp/dca 0
 /dca/1/config/name ""
 /dca/1/config/color OFF
 /dca/2/config/name ""
