@@ -1,5 +1,4 @@
-#2.1# "End of Act 1" 0 0 0 0 0
-/ch/01/mix/on OFF
+#2.1# "36: Rev. Mother Bows" 0 0 0 0 0
 /ch/02/mix/on OFF
 /ch/03/mix/on OFF
 /ch/04/mix/on OFF
@@ -15,7 +14,7 @@
 /ch/14/mix/on OFF
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
-/ch/01/grp/dca 0
+/ch/01/grp/dca 1
 /ch/02/grp/dca 0
 /ch/03/grp/dca 0
 /ch/04/grp/dca 0
@@ -36,13 +35,14 @@
 /ch/19/grp/dca 128
 /ch/20/grp/dca 128
 /ch/21/grp/dca 128
+/ch/01/mix/on ON
 /ch/17/mix/on ON
 /ch/18/mix/on ON
 /ch/19/mix/on ON
 /ch/20/mix/on ON
 /ch/21/mix/on ON
-/dca/1/config/name ""
-/dca/1/config/color OFF
+/dca/1/config/name "Rev Mother"
+/dca/1/config/color WH
 /dca/2/config/name ""
 /dca/2/config/color OFF
 /dca/3/config/name ""
