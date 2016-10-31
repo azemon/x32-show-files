@@ -8,6 +8,7 @@
 # Free for non-commercial use
 #
 ################################################################################
+from xdg.Menu import sort
 
 VERSION = '1.1'
 
@@ -243,6 +244,7 @@ if __name__ == "__main__":
                         shw.write(shw_lines[i])
                     if 'show ' == shw_lines[i][0:5]:
                         # insert new cues
+                        cue_list.sort(key=lambda cue: cue.cue_number)
                         for c in range(0, len(cue_list)):
                             cue = cue_list[c]
                             print 'Created cue %s: %s' % (cue.cue_number, cue.cue_name)
