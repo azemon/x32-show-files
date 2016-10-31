@@ -31,6 +31,7 @@ SKIP_ROWS = 3
 
 SNIPPET_NUMBER_COL = 0
 SNIPPET_NAME_COL = 2
+SNIPPET_PAGE_NUMBER_COL = 1
 
 CUE_NUMBER_COL = 3
 
@@ -161,6 +162,11 @@ if __name__ == "__main__":
 
         # get snippet name
         snippet_name = str(ods_cell(ods, row_index, SNIPPET_NAME_COL))
+
+        # add page number to snippet name
+        page_number = str(ods_cell(ods, row_index, SNIPPET_PAGE_NUMBER_COL))
+        if '' != page_number:
+            snippet_name = '%s: %s' % (page_number, snippet_name)
 
         # get cue info
         cue_number = str(ods_cell(ods, row_index, CUE_NUMBER_COL))
