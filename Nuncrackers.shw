@@ -1,5 +1,8 @@
 #2.6#
 show "Nuncrackers" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
+cue/000 100 "Overture" 0 -1 9 0 1 0 0
+cue/001 110 "Top Of Show" 0 -1 10 0 1 0 0
+cue/002 200 "Virgil She's bac" 0 -1 11 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
