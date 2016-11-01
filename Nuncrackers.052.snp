@@ -1,5 +1,4 @@
-#2.1# "44: End of In the Convent" 0 0 0 0 0
-/ch/02/mix/on OFF
+#2.1# "41: End of Jesus Was Born..." 0 0 0 0 0
 /ch/03/mix/on OFF
 /ch/04/mix/on OFF
 /ch/05/mix/on OFF
@@ -15,7 +14,7 @@
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
 /ch/01/grp/dca 1
-/ch/02/grp/dca 0
+/ch/02/grp/dca 2
 /ch/03/grp/dca 0
 /ch/04/grp/dca 0
 /ch/05/grp/dca 0
@@ -36,6 +35,7 @@
 /ch/20/grp/dca 128
 /ch/21/grp/dca 128
 /ch/01/mix/on ON
+/ch/02/mix/on ON
 /ch/17/mix/on ON
 /ch/18/mix/on ON
 /ch/19/mix/on ON
@@ -43,8 +43,8 @@
 /ch/21/mix/on ON
 /dca/1/config/name "Rev Mother"
 /dca/1/config/color WH
-/dca/2/config/name ""
-/dca/2/config/color OFF
+/dca/2/config/name "Hubert"
+/dca/2/config/color WH
 /dca/3/config/name ""
 /dca/3/config/color OFF
 /dca/4/config/name ""
