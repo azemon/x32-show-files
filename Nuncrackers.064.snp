@@ -1,10 +1,11 @@
-#2.1# "54: Virgil, runs upstairs" 0 0 0 0 0
+#2.1# "p53 End of Christmas Sing Along" 0 0 0 0 0
 /ch/06/mix/on OFF
 /ch/07/mix/on OFF
 /ch/08/mix/on OFF
 /ch/09/mix/on OFF
 /ch/10/mix/on OFF
 /ch/11/mix/on OFF
+/ch/12/mix/on OFF
 /ch/13/mix/on OFF
 /ch/14/mix/on OFF
 /ch/15/mix/on OFF
@@ -20,7 +21,7 @@
 /ch/09/grp/dca 0
 /ch/10/grp/dca 0
 /ch/11/grp/dca 0
-/ch/12/grp/dca 32
+/ch/12/grp/dca 0
 /ch/13/grp/dca 0
 /ch/14/grp/dca 0
 /ch/15/grp/dca 0
@@ -35,7 +36,6 @@
 /ch/03/mix/on ON
 /ch/04/mix/on ON
 /ch/05/mix/on ON
-/ch/12/mix/on ON
 /ch/17/mix/on ON
 /ch/18/mix/on ON
 /ch/19/mix/on ON
@@ -51,8 +51,8 @@
 /dca/4/config/color WH
 /dca/5/config/name "Virgil"
 /dca/5/config/color WH
-/dca/6/config/name "Stage Mgr"
-/dca/6/config/color WH
+/dca/6/config/name ""
+/dca/6/config/color OFF
 /dca/7/config/name ""
 /dca/7/config/color OFF
 /dca/8/config/name "Band"

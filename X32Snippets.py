@@ -166,7 +166,7 @@ if __name__ == "__main__":
         # add page number to snippet name
         page_number = str(ods_cell(ods, row_index, SNIPPET_PAGE_NUMBER_COL))
         if '' != page_number:
-            snippet_name = '%s: %s' % (page_number, snippet_name)
+            snippet_name = 'p%s %s' % (page_number, snippet_name)
 
         # get cue info
         cue_number = str(ods_cell(ods, row_index, CUE_NUMBER_COL))

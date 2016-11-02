@@ -1,4 +1,4 @@
-#2.1# "18: Amnesia & Hubert exit" 0 0 0 0 0
+#2.1# "p18 Amnesia & Hubert exit" 0 0 0 0 0
 /ch/01/mix/on OFF
 /ch/02/mix/on OFF
 /ch/03/mix/on OFF
@@ -50,7 +50,7 @@
 /dca/4/config/name ""
 /dca/4/config/color OFF
 /dca/5/config/name ""
-/dca/5/config/color BL
+/dca/5/config/color OFF
 /dca/6/config/name ""
 /dca/6/config/color OFF
 /dca/7/config/name "Kids"

@@ -1,7 +1,6 @@
-#2.1# "49: All I Want for Christmas" 0 0 0 0 0
+#2.1# "p49 Rev & Virgil exit" 0 0 0 0 0
 /ch/01/mix/on OFF
 /ch/02/mix/on OFF
-/ch/04/mix/on OFF
 /ch/05/mix/on OFF
 /ch/06/mix/on OFF
 /ch/07/mix/on OFF
@@ -17,7 +16,7 @@
 /ch/01/grp/dca 0
 /ch/02/grp/dca 0
 /ch/03/grp/dca 4
-/ch/04/grp/dca 0
+/ch/04/grp/dca 8
 /ch/05/grp/dca 0
 /ch/06/grp/dca 0
 /ch/07/grp/dca 0
@@ -36,6 +35,7 @@
 /ch/20/grp/dca 128
 /ch/21/grp/dca 128
 /ch/03/mix/on ON
+/ch/04/mix/on ON
 /ch/17/mix/on ON
 /ch/18/mix/on ON
 /ch/19/mix/on ON
@@ -47,8 +47,8 @@
 /dca/2/config/color OFF
 /dca/3/config/name "Robert Anne"
 /dca/3/config/color WH
-/dca/4/config/name ""
-/dca/4/config/color OFF
+/dca/4/config/name "Amnesia"
+/dca/4/config/color WH
 /dca/5/config/name ""
 /dca/5/config/color OFF
 /dca/6/config/name ""

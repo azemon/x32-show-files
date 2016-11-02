@@ -1,11 +1,11 @@
-#2.1# "60: Reprise: Christmas Time is..." 0 0 0 0 0
+#2.1# "p59 C'mon good people" 0 0 0 0 0
 /ch/11/mix/on OFF
 /ch/12/mix/on OFF
 /ch/14/mix/on OFF
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
 /ch/01/grp/dca 32
-/ch/02/grp/dca 32
+/ch/02/grp/dca 2
 /ch/03/grp/dca 32
 /ch/04/grp/dca 32
 /ch/05/grp/dca 32
@@ -43,15 +43,15 @@
 /ch/21/mix/on ON
 /dca/1/config/name ""
 /dca/1/config/color OFF
-/dca/2/config/name ""
-/dca/2/config/color OFF
+/dca/2/config/name "Hubert"
+/dca/2/config/color WH
 /dca/3/config/name ""
 /dca/3/config/color OFF
 /dca/4/config/name ""
 /dca/4/config/color OFF
 /dca/5/config/name ""
 /dca/5/config/color OFF
-/dca/6/config/name "Adults"
+/dca/6/config/name "Backup"
 /dca/6/config/color WH
 /dca/7/config/name "Kids"
 /dca/7/config/color WH
