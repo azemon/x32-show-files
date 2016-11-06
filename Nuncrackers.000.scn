@@ -44,7 +44,7 @@
 /ch/01/mix OFF   0.0 ON +0 ON   0.0
 /ch/01/mix/01 ON   -oo +0 POST
 /ch/01/mix/02 ON   0.0
-/ch/01/mix/03 ON   -oo +0 POST
+/ch/01/mix/03 ON   0.0 +0 POST
 /ch/01/mix/04 OFF -28.5
 /ch/01/mix/05 ON   -oo +0 POST
 /ch/01/mix/06 ON   -oo
@@ -76,7 +76,7 @@
 /ch/02/mix OFF   0.0 ON +0 ON   0.0
 /ch/02/mix/01 ON   -oo +0 POST
 /ch/02/mix/02 ON   0.0
-/ch/02/mix/03 ON   -oo +0 POST
+/ch/02/mix/03 ON   0.0 +0 POST
 /ch/02/mix/04 OFF -29.5
 /ch/02/mix/05 ON   -oo +0 POST
 /ch/02/mix/06 ON   -oo
@@ -108,7 +108,7 @@
 /ch/03/mix OFF   0.0 ON +0 ON   0.0
 /ch/03/mix/01 ON   -oo +0 POST
 /ch/03/mix/02 ON   0.0
-/ch/03/mix/03 ON   -oo +0 POST
+/ch/03/mix/03 ON   0.0 +0 POST
 /ch/03/mix/04 OFF -28.5
 /ch/03/mix/05 ON   -oo +0 POST
 /ch/03/mix/06 ON   -oo
@@ -140,7 +140,7 @@
 /ch/04/mix OFF   0.0 ON +0 ON   0.0
 /ch/04/mix/01 ON   -oo +0 POST
 /ch/04/mix/02 ON   0.0
-/ch/04/mix/03 ON   -oo +0 POST
+/ch/04/mix/03 ON   0.0 +0 POST
 /ch/04/mix/04 OFF -28.5
 /ch/04/mix/05 ON   -oo +0 POST
 /ch/04/mix/06 ON   -oo
@@ -172,7 +172,7 @@
 /ch/05/mix OFF   0.0 ON +0 ON   0.0
 /ch/05/mix/01 ON   -oo +0 POST
 /ch/05/mix/02 ON   0.0
-/ch/05/mix/03 ON   -oo +0 POST
+/ch/05/mix/03 ON   0.0 +0 POST
 /ch/05/mix/04 OFF -29.0
 /ch/05/mix/05 ON   -oo +0 POST
 /ch/05/mix/06 ON   -oo
@@ -204,7 +204,7 @@
 /ch/06/mix OFF   0.0 ON +0 ON   0.0
 /ch/06/mix/01 ON   -oo +0 POST
 /ch/06/mix/02 ON   0.0
-/ch/06/mix/03 ON   -oo +0 POST
+/ch/06/mix/03 ON   0.0 +0 POST
 /ch/06/mix/04 OFF -29.0
 /ch/06/mix/05 ON   -oo +0 POST
 /ch/06/mix/06 ON   -oo
@@ -236,7 +236,7 @@
 /ch/07/mix OFF   0.0 ON +0 ON   0.0
 /ch/07/mix/01 ON   -oo +0 POST
 /ch/07/mix/02 ON   0.0
-/ch/07/mix/03 ON   -oo +0 POST
+/ch/07/mix/03 ON   0.0 +0 POST
 /ch/07/mix/04 OFF -30.0
 /ch/07/mix/05 ON   -oo +0 POST
 /ch/07/mix/06 ON   -oo
@@ -268,7 +268,7 @@
 /ch/08/mix OFF   0.0 ON +0 ON   0.0
 /ch/08/mix/01 ON   -oo +0 POST
 /ch/08/mix/02 ON   0.0
-/ch/08/mix/03 ON   -oo +0 POST
+/ch/08/mix/03 ON   0.0 +0 POST
 /ch/08/mix/04 OFF -32.0
 /ch/08/mix/05 ON   -oo +0 POST
 /ch/08/mix/06 ON   -oo
@@ -300,7 +300,7 @@
 /ch/09/mix OFF   0.0 ON +0 ON   0.0
 /ch/09/mix/01 ON   -oo +0 POST
 /ch/09/mix/02 ON   0.0
-/ch/09/mix/03 ON   -oo +0 POST
+/ch/09/mix/03 ON   0.0 +0 POST
 /ch/09/mix/04 OFF -28.5
 /ch/09/mix/05 ON   -oo +0 POST
 /ch/09/mix/06 ON   -oo
@@ -332,7 +332,7 @@
 /ch/10/mix OFF   0.0 ON +0 ON   0.0
 /ch/10/mix/01 ON   -oo +0 POST
 /ch/10/mix/02 ON   0.0
-/ch/10/mix/03 ON   -oo +0 POST
+/ch/10/mix/03 ON   0.0 +0 POST
 /ch/10/mix/04 OFF -31.0
 /ch/10/mix/05 ON   -oo +0 POST
 /ch/10/mix/06 ON   -oo
@@ -364,7 +364,7 @@
 /ch/11/mix OFF   0.0 ON +0 ON   0.0
 /ch/11/mix/01 ON   -oo +0 POST
 /ch/11/mix/02 ON   0.0
-/ch/11/mix/03 ON   -oo +0 POST
+/ch/11/mix/03 ON   0.0 +0 POST
 /ch/11/mix/04 OFF -33.0
 /ch/11/mix/05 ON   -oo +0 POST
 /ch/11/mix/06 ON   -oo
@@ -428,7 +428,7 @@
 /ch/13/mix OFF   0.0 ON +0 ON   0.0
 /ch/13/mix/01 ON   -oo +0 POST
 /ch/13/mix/02 ON   0.0
-/ch/13/mix/03 ON   -oo +0 POST
+/ch/13/mix/03 ON   0.0 +0 POST
 /ch/13/mix/04 OFF -28.5
 /ch/13/mix/05 ON   -oo +0 POST
 /ch/13/mix/06 ON   -oo
@@ -460,7 +460,7 @@
 /ch/14/mix OFF   -oo ON +0 OFF   -oo
 /ch/14/mix/01 ON   -oo +0 POST
 /ch/14/mix/02 OFF   -oo
-/ch/14/mix/03 ON   -oo +0 POST
+/ch/14/mix/03 OFF   -oo +0 POST
 /ch/14/mix/04 OFF   -oo
 /ch/14/mix/05 ON   -oo +0 POST
 /ch/14/mix/06 ON   -oo
@@ -492,7 +492,7 @@
 /ch/15/mix OFF   0.0 ON +0 ON   0.0
 /ch/15/mix/01 ON   -oo +0 POST
 /ch/15/mix/02 ON   0.0
-/ch/15/mix/03 ON   -oo +0 POST
+/ch/15/mix/03 ON   0.0 +0 POST
 /ch/15/mix/04 OFF -28.5
 /ch/15/mix/05 ON   -oo +0 POST
 /ch/15/mix/06 ON   -oo
@@ -524,7 +524,7 @@
 /ch/16/mix OFF   -oo ON +0 OFF   -oo
 /ch/16/mix/01 ON   -oo +0 POST
 /ch/16/mix/02 OFF   -oo
-/ch/16/mix/03 ON   -oo +0 POST
+/ch/16/mix/03 OFF   -oo +0 POST
 /ch/16/mix/04 OFF   -oo
 /ch/16/mix/05 ON   -oo +0 POST
 /ch/16/mix/06 ON   -oo
@@ -556,7 +556,7 @@
 /ch/17/mix OFF   0.0 ON +0 ON   0.0
 /ch/17/mix/01 ON   0.0 +0 POST
 /ch/17/mix/02 ON   0.0
-/ch/17/mix/03 ON   -oo +0 POST
+/ch/17/mix/03 ON -24.0 +0 POST
 /ch/17/mix/04 ON   0.0
 /ch/17/mix/05 ON   -oo +0 POST
 /ch/17/mix/06 ON   -oo
@@ -588,7 +588,7 @@
 /ch/18/mix OFF   0.0 ON +0 ON   0.0
 /ch/18/mix/01 ON   0.0 +0 POST
 /ch/18/mix/02 ON   0.0
-/ch/18/mix/03 ON   -oo +0 POST
+/ch/18/mix/03 ON -24.0 +0 POST
 /ch/18/mix/04 ON   0.0
 /ch/18/mix/05 ON   -oo +0 POST
 /ch/18/mix/06 ON   -oo
@@ -620,7 +620,7 @@
 /ch/19/mix OFF   0.0 ON +0 ON   0.0
 /ch/19/mix/01 ON   0.0 +0 POST
 /ch/19/mix/02 ON   0.0
-/ch/19/mix/03 ON   -oo +0 POST
+/ch/19/mix/03 ON -24.0 +0 POST
 /ch/19/mix/04 ON   0.0
 /ch/19/mix/05 ON   -oo +0 POST
 /ch/19/mix/06 ON   -oo
@@ -652,7 +652,7 @@
 /ch/20/mix OFF  +0.5 ON +0 ON   0.0
 /ch/20/mix/01 ON   0.0 +0 POST
 /ch/20/mix/02 ON   0.0
-/ch/20/mix/03 ON   -oo +0 POST
+/ch/20/mix/03 ON -24.0 +0 POST
 /ch/20/mix/04 ON   0.0
 /ch/20/mix/05 ON   -oo +0 POST
 /ch/20/mix/06 ON   -oo
@@ -684,7 +684,7 @@
 /ch/21/mix OFF   0.0 ON +0 ON   0.0
 /ch/21/mix/01 ON   0.0 +0 POST
 /ch/21/mix/02 ON   0.0
-/ch/21/mix/03 ON   -oo +0 POST
+/ch/21/mix/03 ON -24.0 +0 POST
 /ch/21/mix/04 ON   0.0
 /ch/21/mix/05 ON   -oo +0 POST
 /ch/21/mix/06 ON   -oo
@@ -716,7 +716,7 @@
 /ch/22/mix OFF   -oo ON +0 OFF   -oo
 /ch/22/mix/01 ON   -oo +0 POST
 /ch/22/mix/02 OFF   -oo
-/ch/22/mix/03 ON   -oo +0 POST
+/ch/22/mix/03 OFF   -oo +0 POST
 /ch/22/mix/04 OFF   -oo
 /ch/22/mix/05 ON   -oo +0 POST
 /ch/22/mix/06 ON   -oo
@@ -748,7 +748,7 @@
 /ch/23/mix OFF   0.0 ON -100 ON   0.0
 /ch/23/mix/01 ON   -oo -100 POST
 /ch/23/mix/02 OFF   -oo
-/ch/23/mix/03 ON   -oo -100 POST
+/ch/23/mix/03 OFF   -oo -100 POST
 /ch/23/mix/04 OFF   -oo
 /ch/23/mix/05 ON   -oo -100 POST
 /ch/23/mix/06 ON   -oo
@@ -780,7 +780,7 @@
 /ch/24/mix OFF   0.0 ON +100 ON   0.0
 /ch/24/mix/01 ON   -oo +100 POST
 /ch/24/mix/02 OFF   -oo
-/ch/24/mix/03 ON   -oo +100 POST
+/ch/24/mix/03 OFF   -oo +100 POST
 /ch/24/mix/04 OFF   -oo
 /ch/24/mix/05 ON   -oo +100 POST
 /ch/24/mix/06 ON   -oo
@@ -812,7 +812,7 @@
 /ch/25/mix OFF   -oo OFF +0 OFF   -oo
 /ch/25/mix/01 ON   -oo +0 POST
 /ch/25/mix/02 OFF   -oo
-/ch/25/mix/03 ON   -oo +0 POST
+/ch/25/mix/03 OFF   -oo +0 POST
 /ch/25/mix/04 OFF   -oo
 /ch/25/mix/05 ON   -oo +0 POST
 /ch/25/mix/06 ON   -oo
@@ -844,7 +844,7 @@
 /ch/26/mix OFF   -oo OFF +0 OFF   -oo
 /ch/26/mix/01 ON   -oo +0 POST
 /ch/26/mix/02 OFF   -oo
-/ch/26/mix/03 ON   -oo +0 POST
+/ch/26/mix/03 OFF   -oo +0 POST
 /ch/26/mix/04 OFF   -oo
 /ch/26/mix/05 ON   -oo +0 POST
 /ch/26/mix/06 ON   -oo
@@ -876,7 +876,7 @@
 /ch/27/mix OFF   -oo OFF +0 OFF   -oo
 /ch/27/mix/01 ON   -oo +0 POST
 /ch/27/mix/02 OFF   -oo
-/ch/27/mix/03 ON   -oo +0 POST
+/ch/27/mix/03 OFF   -oo +0 POST
 /ch/27/mix/04 OFF   -oo
 /ch/27/mix/05 ON   -oo +0 POST
 /ch/27/mix/06 ON   -oo
@@ -908,7 +908,7 @@
 /ch/28/mix OFF   -oo OFF +0 OFF   -oo
 /ch/28/mix/01 ON   -oo +0 POST
 /ch/28/mix/02 OFF   -oo
-/ch/28/mix/03 ON   -oo +0 POST
+/ch/28/mix/03 OFF   -oo +0 POST
 /ch/28/mix/04 OFF   -oo
 /ch/28/mix/05 ON   -oo +0 POST
 /ch/28/mix/06 ON   -oo
@@ -940,7 +940,7 @@
 /ch/29/mix OFF   -oo OFF +0 OFF   -oo
 /ch/29/mix/01 ON   -oo +0 POST
 /ch/29/mix/02 OFF   -oo
-/ch/29/mix/03 ON   -oo +0 POST
+/ch/29/mix/03 OFF   -oo +0 POST
 /ch/29/mix/04 OFF   -oo
 /ch/29/mix/05 ON   -oo +0 POST
 /ch/29/mix/06 ON   -oo
@@ -972,7 +972,7 @@
 /ch/30/mix OFF   -oo OFF +0 OFF   -oo
 /ch/30/mix/01 ON   -oo +0 POST
 /ch/30/mix/02 OFF   -oo
-/ch/30/mix/03 ON   -oo +0 POST
+/ch/30/mix/03 OFF   -oo +0 POST
 /ch/30/mix/04 OFF   -oo
 /ch/30/mix/05 ON   -oo +0 POST
 /ch/30/mix/06 ON   -oo
@@ -1004,7 +1004,7 @@
 /ch/31/mix OFF   -oo OFF +0 OFF   -oo
 /ch/31/mix/01 ON   -oo +0 POST
 /ch/31/mix/02 OFF   -oo
-/ch/31/mix/03 ON   -oo +0 POST
+/ch/31/mix/03 OFF   -oo +0 POST
 /ch/31/mix/04 OFF   -oo
 /ch/31/mix/05 ON   -oo +0 POST
 /ch/31/mix/06 ON   -oo
@@ -1036,7 +1036,7 @@
 /ch/32/mix OFF   -oo OFF +0 OFF   -oo
 /ch/32/mix/01 ON   -oo +0 POST
 /ch/32/mix/02 OFF   -oo
-/ch/32/mix/03 ON   -oo +0 POST
+/ch/32/mix/03 OFF   -oo +0 POST
 /ch/32/mix/04 OFF   -oo
 /ch/32/mix/05 ON   -oo +0 POST
 /ch/32/mix/06 ON   -oo
@@ -1482,7 +1482,7 @@
 /bus/02/mix/05 ON   -oo +0 POST
 /bus/02/mix/06 ON   -oo
 /bus/02/grp %00000000 %000000
-/bus/03/config "MixBus" 71 OFF
+/bus/03/config "ALS" 64 CY
 /bus/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/03/dyn/filter OFF 3.0 990.9
 /bus/03/insert OFF PRE OFF
@@ -1493,7 +1493,7 @@
 /bus/03/eq/4 PEQ 1k97 +0.00 2.0
 /bus/03/eq/5 PEQ 5k02 +0.00 2.0
 /bus/03/eq/6 HShv 10k02 +0.00 2.0
-/bus/03/mix OFF   -oo OFF +0 OFF   -oo
+/bus/03/mix OFF   0.0 OFF +0 OFF   -oo
 /bus/03/mix/01 ON   -oo +0 POST
 /bus/03/mix/02 ON   -oo
 /bus/03/mix/03 ON   -oo +0 POST
@@ -1931,8 +1931,8 @@
 /outputs/main/16 2 POST OFF
 /outputs/main/16/delay OFF   0.3
 /outputs/aux/01 4 POST OFF
-/outputs/aux/02 59 POST OFF
-/outputs/aux/03 60 POST OFF
+/outputs/aux/02 6 POST OFF
+/outputs/aux/03 3 PRE OFF
 /outputs/aux/04 61 POST OFF
 /outputs/aux/05 62 POST OFF
 /outputs/aux/06 63 POST OFF
