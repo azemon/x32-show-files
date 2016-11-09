@@ -1920,9 +1920,9 @@
 /outputs/main/10/delay OFF   0.3
 /outputs/main/11 14 POST OFF
 /outputs/main/11/delay OFF   0.3
-/outputs/main/12 15 POST OFF
+/outputs/main/12 1 POST OFF
 /outputs/main/12/delay OFF   0.3
-/outputs/main/13 16 POST OFF
+/outputs/main/13 2 POST OFF
 /outputs/main/13/delay OFF   0.3
 /outputs/main/14 3 POST OFF
 /outputs/main/14/delay OFF   0.3
@@ -1932,7 +1932,7 @@
 /outputs/main/16/delay OFF   0.3
 /outputs/aux/01 4 POST OFF
 /outputs/aux/02 6 POST OFF
-/outputs/aux/03 3 PRE OFF
+/outputs/aux/03 60 POST OFF
 /outputs/aux/04 61 POST OFF
 /outputs/aux/05 62 POST OFF
 /outputs/aux/06 63 POST OFF
