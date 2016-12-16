@@ -215,8 +215,8 @@ if __name__ == "__main__":
         # finally we write out the new DCA labels
         for dca in range(0, NUM_DCAS):
             label = str(ods_cell(ods, row_index, dca + FIRST_DCA_COL))
-            if label == 'WARN':
-                snp_file.write('/dca/' + str(dca + 1) + '/config/name ""\n')
+            if label in ('WARN', 'warn'):
+                snp_file.write('/dca/' + str(dca + 1) + '/config/name "Warn"\n')
                 snp_file.write('/dca/' + str(dca + 1) + '/config/color BL\n')
             elif label != '':
                 snp_file.write('/dca/' + str(dca + 1) + '/config/name "' + label + '"\n')
