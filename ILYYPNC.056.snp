@@ -13,7 +13,6 @@
 /ch/14/mix/on OFF
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
-/ch/20/mix/on OFF
 /ch/21/mix/on OFF
 /ch/01/grp/dca 2
 /ch/02/grp/dca 0
@@ -34,21 +33,22 @@
 /ch/17/grp/dca 128
 /ch/18/grp/dca 128
 /ch/19/grp/dca 128
-/ch/20/grp/dca 0
+/ch/20/grp/dca 128
 /ch/21/grp/dca 0
 /ch/01/mix/on ON
 /ch/09/mix/on ON
 /ch/17/mix/on ON
 /ch/18/mix/on ON
 /ch/19/mix/on ON
+/ch/20/mix/on ON
 /dca/1/config/name "Rose"
 /dca/1/config/color WH
 /dca/2/config/name "Vid Op"
 /dca/2/config/color WH
-/dca/3/config/name ""
-/dca/3/config/color OFF
-/dca/4/config/name ""
-/dca/4/config/color OFF
+/dca/3/config/name "Warn"
+/dca/3/config/color BL
+/dca/4/config/name "Warn"
+/dca/4/config/color BL
 /dca/5/config/name ""
 /dca/5/config/color OFF
 /dca/6/config/name ""
