@@ -1,4 +1,4 @@
-#2.6# "power on" "" %000000000 1                                                                                               
+#2.1# "power on" "" %000000000 1                                                                                               
 /config/chlink OFF OFF OFF OFF OFF OFF OFF OFF ON OFF OFF OFF ON OFF OFF OFF
 /config/auxlink OFF OFF OFF ON
 /config/fxlink ON ON ON ON
@@ -18,11 +18,11 @@
 /config/routing/CARD AN1-8 AN9-16 AN17-24 AN25-32
 /config/routing/OUT OUT1-4 OUT5-8 OUT9-12 OUT13-16
 /config/userctrl/A CY
-/config/userctrl/A/enc "" "" "" ""
-/config/userctrl/A/btn "P0013" "P0014" "T4" "" "" "" "" ""
+/config/userctrl/A/enc "" "" "F71" "F60"
+/config/userctrl/A/btn "P0013" "P0014" "T4" "P0063" "" "" "" ""
 /config/userctrl/B GN
-/config/userctrl/B/enc "DG" "DJ" "DK" "DL"
-/config/userctrl/B/btn "P0010" "P0011" "P0012" "P0013" "P0000" "P0000" "P0000" "P0000"
+/config/userctrl/B/enc "" "" "" ""
+/config/userctrl/B/btn "" "" "" "" "" "" "" ""
 /config/userctrl/C BL
 /config/userctrl/C/enc "-" "-" "-" "-"
 /config/userctrl/C/btn "-" "-" "-" "-" "-" "-" "-" "-"
@@ -1829,7 +1829,7 @@
 /main/st/config "" 66 WH
 /main/st/dyn ON COMP RMS LOG -6.0 2.5 1 0.00 3 5.02  141 POST 100 ON
 /main/st/dyn/filter OFF 1.0 701.5
-/main/st/insert OFF PRE OFF
+/main/st/insert ON PRE FX8R
 /main/st/eq OFF
 /main/st/eq/1 LShv 79.6 +0.00 2.0
 /main/st/eq/2 PEQ 158.9 +0.00 2.0
@@ -1897,7 +1897,7 @@
 /fx/7 GEQ2
 /fx/7/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
 /fx/8 GEQ
-/fx/8/par 0.0 0.0 0.0 0.0 0.0 -3.5 -3.0 -5.0 -4.5 -5.0 -4.0 -3.0 -4.0 -3.5 -4.5 -3.5 -5.0 -2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/8/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /outputs/main/01 1 POST OFF
 /outputs/main/01/delay OFF   0.3
 /outputs/main/02 2 POST OFF
