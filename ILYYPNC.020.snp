@@ -1,37 +1,37 @@
-#2.1# "p36 Scared Straight" 0 0 0 0 0
-/ch/01/mix/on OFF
-/ch/03/mix/on OFF
-/ch/06/mix/on OFF
+#2.1# "p34 Guys enter" 0 0 0 0 0
+/ch/02/mix/on OFF
+/ch/04/mix/on OFF
 /ch/07/mix/on OFF
-/ch/01/grp/dca 0
-/ch/02/grp/dca 32
-/ch/03/grp/dca 0
-/ch/04/grp/dca 16
+/ch/08/mix/on OFF
+/ch/09/mix/on OFF
+/ch/10/mix/on OFF
+/ch/01/grp/dca 8
+/ch/02/grp/dca 0
+/ch/03/grp/dca 4
+/ch/04/grp/dca 0
 /ch/05/grp/dca 2
-/ch/06/grp/dca 0
+/ch/06/grp/dca 1
 /ch/07/grp/dca 0
-/ch/08/grp/dca 1
-/ch/09/grp/dca 4
-/ch/10/grp/dca 8
-/ch/02/mix/on ON
-/ch/04/mix/on ON
+/ch/08/grp/dca 0
+/ch/09/grp/dca 0
+/ch/10/grp/dca 0
+/ch/01/mix/on ON
+/ch/03/mix/on ON
 /ch/05/mix/on ON
-/ch/08/mix/on ON
-/ch/09/mix/on ON
-/ch/10/mix/on ON
-/dca/1/config/name "Trentell"
+/ch/06/mix/on ON
+/dca/1/config/name "Debbie"
 /dca/1/config/color WH
-/dca/2/config/name "Brad 2"
+/dca/2/config/name "Guy 1"
 /dca/2/config/color WH
-/dca/3/config/name "Mrs Whitewood"
+/dca/3/config/name "Ma"
 /dca/3/config/color WH
-/dca/4/config/name "Brad 1"
+/dca/4/config/name "Guy 2"
 /dca/4/config/color WH
-/dca/5/config/name "Susan 1"
-/dca/5/config/color WH
-/dca/6/config/name "Susan 2"
-/dca/6/config/color WH
-/dca/7/config/name "Warn"
-/dca/7/config/color BL
+/dca/5/config/name "Warn"
+/dca/5/config/color BL
+/dca/6/config/name "Warn"
+/dca/6/config/color BL
+/dca/7/config/name ""
+/dca/7/config/color OFF
 /dca/8/config/name ""
 /dca/8/config/color OFF

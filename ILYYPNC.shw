@@ -10,21 +10,23 @@ cue/006 600 "p24 Lasagna Inci" 0 -1 16 0 1 0 0
 cue/007 700 "p28 And Now the " 0 -1 17 0 1 0 0
 cue/008 800 "p32 Satisfaction" 0 -1 18 0 1 0 0
 cue/009 900 "p33 I'll Call Yo" 0 -1 19 0 1 0 0
-cue/010 1000 "p36 Scared Strai" 0 -1 20 0 1 0 0
-cue/011 1100 "p39 Wedding Vows" 0 -1 21 0 1 0 0
-cue/012 1200 "p42 End Act I" 0 -1 22 0 1 0 0
-cue/013 1300 "p43 Open Act II" 0 -1 50 0 1 0 0
-cue/014 1400 "p45 Whatever Hap" 0 -1 51 0 1 0 0
-cue/015 1500 "p52 Sex and the " 0 -1 52 0 1 0 0
-cue/016 1600 "p56 The Family t" 0 -1 53 0 1 0 0
-cue/017 1700 "p60 Waiting" 0 -1 54 0 1 0 0
-cue/018 1800 "p63 Less in Love" 0 -1 55 0 1 0 0
-cue/019 1900 "p64 Very First D" 0 -1 56 0 1 0 0
-cue/020 2000 "p66 Funerals are" 0 -1 57 0 1 0 0
-cue/021 2100 "p72 Epilogue" 0 -1 58 0 1 0 0
-cue/022 2200 "p73 Finale" 0 -1 59 0 1 0 0
-cue/023 2300 "p74 Bows & Exit" 0 -1 60 0 1 0 0
-cue/024 2400 "p74 End Act II" 0 -1 61 0 1 0 0
+cue/010 910 "p34 Guys enter" 0 -1 20 0 1 0 0
+cue/011 1000 "p36 Scared Strai" 0 -1 21 0 1 0 0
+cue/012 1100 "p39 Wedding Vows" 0 -1 22 0 1 0 0
+cue/013 1200 "p42 End Act I" 0 -1 23 0 1 0 0
+cue/014 1300 "p43 Open Act II" 0 -1 50 0 1 0 0
+cue/015 1310 "p44 Bridesmaid" 0 -1 51 0 1 0 0
+cue/016 1400 "p45 Whatever Hap" 0 -1 52 0 1 0 0
+cue/017 1500 "p52 Sex and the " 0 -1 53 0 1 0 0
+cue/018 1600 "p56 The Family t" 0 -1 54 0 1 0 0
+cue/019 1700 "p60 Waiting" 0 -1 55 0 1 0 0
+cue/020 1800 "p64 Less in Love" 0 -1 56 0 1 0 0
+cue/021 1900 "p64 Very First D" 0 -1 57 0 1 0 0
+cue/022 2000 "p66 Funerals are" 0 -1 58 0 1 0 0
+cue/023 2100 "p72 Epilogue" 0 -1 59 0 1 0 0
+cue/024 2110 "p73 Ep. 2" 0 -1 60 0 1 0 0
+cue/025 2200 "p73 Finale" 0 -1 61 0 1 0 0
+cue/026 2300 "p74 Bows & Exit" 0 -1 62 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
