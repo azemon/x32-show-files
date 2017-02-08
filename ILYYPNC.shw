@@ -2,31 +2,34 @@
 show "ILYYPNC" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
 cue/000 100 "p1 Band warm-up" 0 -1 10 0 1 0 0
 cue/001 110 "p1 Prologue" 0 -1 11 0 1 0 0
-cue/002 200 "p5 Not tonight.." 0 -1 12 0 1 0 0
-cue/003 300 "p10 A Stud and a" 0 -1 13 0 1 0 0
-cue/004 400 "p15 Men Who Talk" 0 -1 14 0 1 0 0
-cue/005 500 "p21 Tear Jerk" 0 -1 15 0 1 0 0
-cue/006 600 "p24 Lasagna Inci" 0 -1 16 0 1 0 0
-cue/007 700 "p28 And Now the " 0 -1 17 0 1 0 0
-cue/008 800 "p32 Satisfaction" 0 -1 18 0 1 0 0
-cue/009 900 "p33 I'll Call Yo" 0 -1 19 0 1 0 0
-cue/010 910 "p34 Guys enter" 0 -1 20 0 1 0 0
-cue/011 1000 "p36 Scared Strai" 0 -1 21 0 1 0 0
-cue/012 1100 "p39 Wedding Vows" 0 -1 22 0 1 0 0
-cue/013 1200 "p42 End Act I" 0 -1 23 0 1 0 0
-cue/014 1300 "p43 Open Act II" 0 -1 50 0 1 0 0
-cue/015 1310 "p44 Bridesmaid" 0 -1 51 0 1 0 0
-cue/016 1400 "p45 Whatever Hap" 0 -1 52 0 1 0 0
-cue/017 1500 "p52 Sex and the " 0 -1 53 0 1 0 0
-cue/018 1600 "p56 The Family t" 0 -1 54 0 1 0 0
-cue/019 1700 "p60 Waiting" 0 -1 55 0 1 0 0
-cue/020 1800 "p64 Less in Love" 0 -1 56 0 1 0 0
-cue/021 1900 "p64 Very First D" 0 -1 57 0 1 0 0
-cue/022 2000 "p66 Funerals are" 0 -1 58 0 1 0 0
-cue/023 2100 "p72 Epilogue" 0 -1 59 0 1 0 0
-cue/024 2110 "p73 Ep. 2" 0 -1 60 0 1 0 0
-cue/025 2200 "p73 Finale" 0 -1 61 0 1 0 0
-cue/026 2300 "p74 Bows & Exit" 0 -1 62 0 1 0 0
+cue/002 120 "p3 Marc+James ON" 0 -1 12 0 1 0 0
+cue/003 130 "p4 Marc+James OF" 0 -1 13 0 1 0 0
+cue/004 200 "p5 Not tonight.." 0 -1 14 0 1 0 0
+cue/005 300 "p10 A Stud and a" 0 -1 15 0 1 0 0
+cue/006 400 "p15 Men Who Talk" 0 -1 16 0 1 0 0
+cue/007 500 "p21 Tear Jerk" 0 -1 17 0 1 0 0
+cue/008 600 "p24 Lasagna Inci" 0 -1 18 0 1 0 0
+cue/009 700 "p28 And Now the " 0 -1 19 0 1 0 0
+cue/010 800 "p32 Satisfaction" 0 -1 20 0 1 0 0
+cue/011 900 "p33 I'll Call Yo" 0 -1 21 0 1 0 0
+cue/012 910 "p34 Guys enter" 0 -1 22 0 1 0 0
+cue/013 1000 "p36 Scared Strai" 0 -1 23 0 1 0 0
+cue/014 1100 "p39 Wedding Vows" 0 -1 24 0 1 0 0
+cue/015 1200 "p42 End Act I" 0 -1 25 0 1 0 0
+cue/016 1300 "p43 Open Act II" 0 -1 50 0 1 0 0
+cue/017 1310 "p44 Bridesmaid" 0 -1 51 0 1 0 0
+cue/018 1400 "p45 Whatever Hap" 0 -1 52 0 1 0 0
+cue/019 1500 "p52 Sex and the " 0 -1 53 0 1 0 0
+cue/020 1510 "p54 Kids ON" 0 -1 54 0 1 0 0
+cue/021 1600 "p56 The Family t" 0 -1 55 0 1 0 0
+cue/022 1700 "p60 Waiting" 0 -1 56 0 1 0 0
+cue/023 1800 "p64 Less in Love" 0 -1 57 0 1 0 0
+cue/024 1900 "p64 Very First D" 0 -1 58 0 1 0 0
+cue/025 2000 "p66 Funerals are" 0 -1 59 0 1 0 0
+cue/026 2100 "p72 Epilogue" 0 -1 60 0 1 0 0
+cue/027 2110 "p73 Ep. 2" 0 -1 61 0 1 0 0
+cue/028 2200 "p73 Finale" 0 -1 62 0 1 0 0
+cue/029 2300 "p74 Bows & Exit" 0 -1 63 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
