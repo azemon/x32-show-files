@@ -1899,9 +1899,9 @@
 /fx/8 GEQ
 /fx/8/par 0.0 2.0 1.0 0.0 0.0 -7.0 -8.5 -6.5 -7.0 -7.5 0.0 -4.0 -4.0 -2.0 -1.5 -2.5 -1.0 0.0 0.0 8.0 9.0 -0.5 0.0 0.0 0.0 7.0 0.0 6.0 6.5 8.0 9.5 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /outputs/main/01 1 POST OFF
-/outputs/main/01/delay OFF   0.3
+/outputs/main/01/delay ON  25.0
 /outputs/main/02 2 POST OFF
-/outputs/main/02/delay OFF   0.3
+/outputs/main/02/delay ON  25.0
 /outputs/main/03 5 POST OFF
 /outputs/main/03/delay OFF   0.3
 /outputs/main/04 6 IN/LC OFF
@@ -1915,7 +1915,7 @@
 /outputs/main/08 0 POST OFF
 /outputs/main/08/delay OFF   0.3
 /outputs/main/09 3 POST OFF
-/outputs/main/09/delay OFF   0.3
+/outputs/main/09/delay ON  25.0
 /outputs/main/10 0 POST OFF
 /outputs/main/10/delay OFF   0.3
 /outputs/main/11 0 POST OFF
