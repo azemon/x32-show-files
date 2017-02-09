@@ -31,7 +31,7 @@
 /dca/5/config/color WH
 /dca/6/config/name "Frank"
 /dca/6/config/color WH
-/dca/7/config/name "Warn"
-/dca/7/config/color BL
+/dca/7/config/name ""
+/dca/7/config/color OFF
 /dca/8/config/name ""
 /dca/8/config/color OFF
