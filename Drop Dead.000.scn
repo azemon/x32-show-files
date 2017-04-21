@@ -1,4 +1,4 @@
-#2.1# "power on" "" %000000000 1                                                                                               
+#2.6# "power on" "" %000000000 1                                                                                               
 /config/chlink OFF OFF OFF OFF OFF ON OFF ON ON OFF OFF OFF OFF OFF OFF OFF
 /config/auxlink ON OFF ON ON
 /config/fxlink ON ON ON ON
