@@ -1,5 +1,5 @@
-# I Love You, You're Perfect, Now Change #
+# Drop Dead #
 
 Act Two Theatre, St. Peters, MO
 
-February 2017
+April-May 2017
