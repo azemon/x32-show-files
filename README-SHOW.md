@@ -1,5 +1,5 @@
-# I Love You, You're Perfect, Now Change #
+# Little Shop of Horrors #
 
 Act Two Theatre, St. Peters, MO
 
-February 2017
+November 2017

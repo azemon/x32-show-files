@@ -8,7 +8,6 @@
 # Free for non-commercial use
 #
 ################################################################################
-from xdg.Menu import sort
 
 VERSION = '1.1'
 

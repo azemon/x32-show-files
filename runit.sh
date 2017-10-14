@@ -1,1 +1,1 @@
-./X32Snippets.py ~/Downloads/ILYYPNC_DCA_Assignments.ods ILYYPNC
+./X32Snippets.py ~/Downloads/LSOH_DCA_Assignments.ods LSOH

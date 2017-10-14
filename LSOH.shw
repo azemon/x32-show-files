@@ -1,0 +1,161 @@
+#2.6#
+show "LSOH" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
+cue/000 100 "p12 Preshow" 0 -1 10 0 1 0 0
+cue/001 200 "p12 LITTLE SHOP " 0 -1 11 0 1 0 0
+cue/002 300 "p15 Act I Scene " 0 -1 12 0 1 0 0
+cue/003 400 "p17 Before wino " 0 -1 13 0 1 0 0
+cue/004 500 "p20 End of DOWNT" 0 -1 14 0 1 0 0
+cue/005 600 "p22 Door chimes" 0 -1 15 0 1 0 0
+cue/006 700 "p22 DA DOO" 0 -1 16 0 1 0 0
+cue/007 800 "p24 End of DA DO" 0 -1 17 0 1 0 0
+cue/008 900 "p25 Customer exi" 0 -1 18 0 1 0 0
+cue/009 1000 "p25 Audrey exits" 0 -1 19 0 1 0 0
+cue/010 1100 "p26 Mushnik exit" 0 -1 20 0 1 0 0
+cue/011 1200 "p28 Blackout" 0 -1 21 0 1 0 0
+cue/012 1300 "p28 YA NEVER KNO" 0 -1 22 0 1 0 0
+cue/013 1400 "p30 Seymour ente" 0 -1 23 0 1 0 0
+cue/014 1500 "p31 Mushnik exit" 0 -1 24 0 1 0 0
+cue/015 1600 "p32 Zam Kazap!" 0 -1 25 0 1 0 0
+cue/016 1700 "p33 Audrey enter" 0 -1 26 0 1 0 0
+cue/017 1800 "p35 Top of page " 0 -1 27 0 1 0 0
+cue/018 1900 "p36 CLOSED FOR R" 0 -1 28 0 1 0 0
+cue/019 2000 "p38 Mushnik exit" 0 -1 29 0 1 0 0
+cue/020 2100 "p40 Lights fade " 0 -1 30 0 1 0 0
+cue/021 2200 "p43 Orin enters " 0 -1 31 0 1 0 0
+cue/022 2300 "p44 Mushnik ente" 0 -1 32 0 1 0 0
+cue/023 2400 "p45 MUSHNIK AND " 0 -1 33 0 1 0 0
+cue/024 2500 "p48 Mushnik exit" 0 -1 34 0 1 0 0
+cue/025 2600 "p53 Orin & Audre" 0 -1 35 0 1 0 0
+cue/026 2700 "p54 Music builds" 0 -1 36 0 1 0 0
+cue/027 2800 "p54 Blackout" 0 -1 37 0 1 0 0
+cue/028 2900 "p55 Scene 4" 0 -1 38 0 1 0 0
+cue/029 3000 "p60 Coda" 0 -1 39 0 1 0 0
+cue/030 3100 "p61 Blackout" 0 -1 40 0 1 0 0
+cue/031 3200 "p62 Act II Scene" 0 -1 53 0 1 0 0
+cue/032 3300 "p63 Seymour ente" 0 -1 54 0 1 0 0
+cue/033 3400 "p63 Customer exi" 0 -1 55 0 1 0 0
+cue/034 3500 "p70 Crystal ente" 0 -1 56 0 1 0 0
+cue/035 3600 "p71 Music ends" 0 -1 57 0 1 0 0
+cue/036 3700 "p71 Audrey enter" 0 -1 58 0 1 0 0
+cue/037 3800 "p72 Audrey exits" 0 -1 59 0 1 0 0
+cue/038 3900 "p73 SUPPERTIME" 0 -1 60 0 1 0 0
+cue/039 4000 "p75 Girls appear" 0 -1 61 0 1 0 0
+cue/040 4100 "p77 Blackout" 0 -1 62 0 1 0 0
+cue/041 4200 "p77 THE MEEK SHA" 0 -1 63 0 1 0 0
+cue/042 4300 "p78 Bernstein en" 0 -1 64 0 1 0 0
+cue/043 4400 "p78 Bernstein ex" 0 -1 65 0 1 0 0
+cue/044 4500 "p79 Mrs. Luce en" 0 -1 66 0 1 0 0
+cue/045 4600 "p80 Mrs. Luce ex" 0 -1 67 0 1 0 0
+cue/046 4700 "p80 Snip enters" 0 -1 68 0 1 0 0
+cue/047 4800 "p81 Seymour solo" 0 -1 69 0 1 0 0
+cue/048 4900 "p82 Girls enter" 0 -1 70 0 1 0 0
+cue/049 5000 "p83 Blackout" 0 -1 71 0 1 0 0
+cue/050 5100 "p84 Act II Scene" 0 -1 72 0 1 0 0
+cue/051 5200 "p85 Audrey enter" 0 -1 73 0 1 0 0
+cue/052 5300 "p86 Audrey exits" 0 -1 74 0 1 0 0
+cue/053 5400 "p86 Seymour exit" 0 -1 75 0 1 0 0
+cue/054 5500 "p89 After plant " 0 -1 76 0 1 0 0
+cue/055 5600 "p90 Audrey dies" 0 -1 77 0 1 0 0
+cue/056 5700 "p91 Lights to mo" 0 -1 78 0 1 0 0
+cue/057 5800 "p91 Martin enter" 0 -1 79 0 1 0 0
+cue/058 5900 "p91 Martin exits" 0 -1 80 0 1 0 0
+cue/059 6000 "p92 Seymour into" 0 -1 81 0 1 0 0
+cue/060 6100 "p93 Girls enter" 0 -1 82 0 1 0 0
+cue/061 6200 "p93 Martin exits" 0 -1 83 0 1 0 0
+cue/062 6300 "p94 Plant with f" 0 -1 84 0 1 0 0
+cue/063 6400 "p96 Blackout" 0 -1 85 0 1 0 0
+scene/000 "power on" "" %000000000 1
+snippet/000 "" 0 0 0 0 1
+snippet/001 "" 0 0 0 0 1
+snippet/002 "" 0 0 0 0 1
+snippet/003 "" 0 0 0 0 1
+snippet/004 "" 0 0 0 0 1
+snippet/005 "" 0 0 0 0 1
+snippet/006 "" 0 0 0 0 1
+snippet/007 "" 0 0 0 0 1
+snippet/008 "" 0 0 0 0 1
+snippet/009 "" 0 0 0 0 1
+snippet/010 "p12 Preshow" 0 0 0 0 1
+snippet/011 "p12 LITTLE SHOP " 0 0 0 0 1
+snippet/012 "p15 Act I Scene " 0 0 0 0 1
+snippet/013 "p17 Before wino " 0 0 0 0 1
+snippet/014 "p20 End of DOWNT" 0 0 0 0 1
+snippet/015 "p22 Door chimes" 0 0 0 0 1
+snippet/016 "p22 DA DOO" 0 0 0 0 1
+snippet/017 "p24 End of DA DO" 0 0 0 0 1
+snippet/018 "p25 Customer exi" 0 0 0 0 1
+snippet/019 "p25 Audrey exits" 0 0 0 0 1
+snippet/020 "p26 Mushnik exit" 0 0 0 0 1
+snippet/021 "p28 Blackout" 0 0 0 0 1
+snippet/022 "p28 YA NEVER KNO" 0 0 0 0 1
+snippet/023 "p30 Seymour ente" 0 0 0 0 1
+snippet/024 "p31 Mushnik exit" 0 0 0 0 1
+snippet/025 "p32 Zam Kazap!" 0 0 0 0 1
+snippet/026 "p33 Audrey enter" 0 0 0 0 1
+snippet/027 "p35 Top of page " 0 0 0 0 1
+snippet/028 "p36 CLOSED FOR R" 0 0 0 0 1
+snippet/029 "p38 Mushnik exit" 0 0 0 0 1
+snippet/030 "p40 Lights fade " 0 0 0 0 1
+snippet/031 "p43 Orin enters " 0 0 0 0 1
+snippet/032 "p44 Mushnik ente" 0 0 0 0 1
+snippet/033 "p45 MUSHNIK AND " 0 0 0 0 1
+snippet/034 "p48 Mushnik exit" 0 0 0 0 1
+snippet/035 "p53 Orin & Audre" 0 0 0 0 1
+snippet/036 "p54 Music builds" 0 0 0 0 1
+snippet/037 "p54 Blackout" 0 0 0 0 1
+snippet/038 "p55 Scene 4" 0 0 0 0 1
+snippet/039 "p60 Coda" 0 0 0 0 1
+snippet/040 "p61 Blackout" 0 0 0 0 1
+snippet/041 "" 0 0 0 0 1
+snippet/042 "" 0 0 0 0 1
+snippet/043 "" 0 0 0 0 1
+snippet/044 "" 0 0 0 0 1
+snippet/045 "" 0 0 0 0 1
+snippet/046 "" 0 0 0 0 1
+snippet/047 "" 0 0 0 0 1
+snippet/048 "" 0 0 0 0 1
+snippet/049 "" 0 0 0 0 1
+snippet/050 "" 0 0 0 0 1
+snippet/051 "" 0 0 0 0 1
+snippet/052 "" 0 0 0 0 1
+snippet/053 "p62 Act II Scene" 0 0 0 0 1
+snippet/054 "p63 Seymour ente" 0 0 0 0 1
+snippet/055 "p63 Customer exi" 0 0 0 0 1
+snippet/056 "p70 Crystal ente" 0 0 0 0 1
+snippet/057 "p71 Music ends" 0 0 0 0 1
+snippet/058 "p71 Audrey enter" 0 0 0 0 1
+snippet/059 "p72 Audrey exits" 0 0 0 0 1
+snippet/060 "p73 SUPPERTIME" 0 0 0 0 1
+snippet/061 "p75 Girls appear" 0 0 0 0 1
+snippet/062 "p77 Blackout" 0 0 0 0 1
+snippet/063 "p77 THE MEEK SHA" 0 0 0 0 1
+snippet/064 "p78 Bernstein en" 0 0 0 0 1
+snippet/065 "p78 Bernstein ex" 0 0 0 0 1
+snippet/066 "p79 Mrs. Luce en" 0 0 0 0 1
+snippet/067 "p80 Mrs. Luce ex" 0 0 0 0 1
+snippet/068 "p80 Snip enters" 0 0 0 0 1
+snippet/069 "p81 Seymour solo" 0 0 0 0 1
+snippet/070 "p82 Girls enter" 0 0 0 0 1
+snippet/071 "p83 Blackout" 0 0 0 0 1
+snippet/072 "p84 Act II Scene" 0 0 0 0 1
+snippet/073 "p85 Audrey enter" 0 0 0 0 1
+snippet/074 "p86 Audrey exits" 0 0 0 0 1
+snippet/075 "p86 Seymour exit" 0 0 0 0 1
+snippet/076 "p89 After plant " 0 0 0 0 1
+snippet/077 "p90 Audrey dies" 0 0 0 0 1
+snippet/078 "p91 Lights to mo" 0 0 0 0 1
+snippet/079 "p91 Martin enter" 0 0 0 0 1
+snippet/080 "p91 Martin exits" 0 0 0 0 1
+snippet/081 "p92 Seymour into" 0 0 0 0 1
+snippet/082 "p93 Girls enter" 0 0 0 0 1
+snippet/083 "p93 Martin exits" 0 0 0 0 1
+snippet/084 "p94 Plant with f" 0 0 0 0 1
+snippet/085 "p96 Blackout" 0 0 0 0 1
+snippet/086 "" 0 0 0 0 1
+snippet/087 "" 0 0 0 0 1
+snippet/088 "" 0 0 0 0 1
+snippet/089 "" 0 0 0 0 1
+snippet/090 "" 0 0 0 0 1
+snippet/091 "" 0 0 0 0 1
+snippet/092 "" 0 0 0 0 1
+snippet/093 "" 0 0 0 0 1
