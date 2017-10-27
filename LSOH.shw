@@ -1,4 +1,4 @@
-#2.6#
+#2.1#
 show "LSOH" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
 cue/000 100 "p12 Preshow" 0 -1 10 0 1 0 0
 cue/001 200 "p12 LITTLE SHOP " 0 -1 11 0 1 0 0
