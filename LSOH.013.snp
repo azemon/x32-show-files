@@ -1,6 +1,5 @@
 #2.1# "p17 Before wino enters" 0 0 0 0 0
 /ch/08/mix/on OFF
-/ch/09/mix/on OFF
 /ch/10/mix/on OFF
 /ch/01/grp/dca 1
 /ch/02/grp/dca 2
@@ -10,7 +9,7 @@
 /ch/06/grp/dca 32
 /ch/07/grp/dca 64
 /ch/08/grp/dca 0
-/ch/09/grp/dca 0
+/ch/09/grp/dca 128
 /ch/10/grp/dca 0
 /ch/01/mix/on ON
 /ch/02/mix/on ON
@@ -19,6 +18,7 @@
 /ch/05/mix/on ON
 /ch/06/mix/on ON
 /ch/07/mix/on ON
+/ch/09/mix/on ON
 /dca/1/config/name "Chiffon"
 /dca/1/config/color WH
 /dca/2/config/name "Crystal"
@@ -33,5 +33,5 @@
 /dca/6/config/color WH
 /dca/7/config/name "Wino"
 /dca/7/config/color WH
-/dca/8/config/name ""
-/dca/8/config/color OFF
+/dca/8/config/name "Justin"
+/dca/8/config/color WH

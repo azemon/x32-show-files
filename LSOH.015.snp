@@ -3,7 +3,7 @@
 /ch/02/mix/on OFF
 /ch/03/mix/on OFF
 /ch/04/mix/on OFF
-/ch/08/mix/on OFF
+/ch/07/mix/on OFF
 /ch/09/mix/on OFF
 /ch/10/mix/on OFF
 /ch/01/grp/dca 0
@@ -12,13 +12,13 @@
 /ch/04/grp/dca 0
 /ch/05/grp/dca 16
 /ch/06/grp/dca 32
-/ch/07/grp/dca 64
-/ch/08/grp/dca 0
+/ch/07/grp/dca 0
+/ch/08/grp/dca 64
 /ch/09/grp/dca 0
 /ch/10/grp/dca 0
 /ch/05/mix/on ON
 /ch/06/mix/on ON
-/ch/07/mix/on ON
+/ch/08/mix/on ON
 /dca/1/config/name ""
 /dca/1/config/color OFF
 /dca/2/config/name ""
