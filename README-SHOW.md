@@ -1,5 +1,5 @@
-# Little Shop of Horrors #
+# The Great American Trailer Park Musical #
 
 Act Two Theatre, St. Peters, MO
 
-November 2017
+August 2018
