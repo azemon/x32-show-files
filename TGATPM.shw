@@ -1,57 +1,58 @@
-#2.6#
+#2.7#
 show "TGATPM" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
-cue/000 100 "p7 Top of show" 0 -1 9 0 1 0 0
-cue/001 200 "p10 Norbert ente" 0 -1 10 0 1 0 0
-cue/002 300 "p11 Fight to bac" 0 -1 11 0 1 0 0
-cue/003 400 "p12 Pippi enters" 0 -1 12 0 1 0 0
-cue/004 500 "p13 Song ends" 0 -1 13 0 1 0 0
-cue/005 600 "p13 Flashback" 0 -1 14 0 1 0 0
-cue/006 700 "p14 ONE STEP CLO" 0 -1 15 0 1 0 0
-cue/007 800 "p16 Girls exit" 0 -1 16 0 1 0 0
-cue/008 900 "p17 Song ends" 0 -1 17 0 1 0 0
-cue/009 1000 "p17 Pippi enters" 0 -1 18 0 1 0 0
-cue/010 1100 "p19 Song ends" 0 -1 19 0 1 0 0
-cue/011 1200 "p19 Men exit" 0 -1 20 0 1 0 0
-cue/012 1300 "p20 Lights up on" 0 -1 21 0 1 0 0
-cue/013 1400 "p21 Pippi opens " 0 -1 22 0 1 0 0
-cue/014 1500 "p22 Pippi tosses" 0 -1 23 0 1 0 0
-cue/015 1600 "p23 Top of page" 0 -1 24 0 1 0 0
-cue/016 1700 "p24 Interior of " 0 -1 25 0 1 0 0
-cue/017 1800 "p27 Song ends" 0 -1 26 0 1 0 0
-cue/018 1900 "p28 Duke enters" 0 -1 27 0 1 0 0
-cue/019 2000 "p29 Duke exits" 0 -1 28 0 1 0 0
-cue/020 2100 "p29 Pippi enters" 0 -1 29 0 1 0 0
-cue/021 2200 "p30 Jeanie enter" 0 -1 30 0 1 0 0
-cue/022 2300 "p30 Gar trailer " 0 -1 31 0 1 0 0
-cue/023 2400 "p31 GREAT AMER T" 0 -1 32 0 1 0 0
-cue/024 2500 "p32 Top of page " 0 -1 33 0 1 0 0
-cue/025 2600 "p32 After Norber" 0 -1 34 0 1 0 0
-cue/026 2700 "p33 Pippi grabs " 0 -1 35 0 1 0 0
-cue/027 2800 "p33 Music out" 0 -1 36 0 1 0 0
-cue/028 2900 "p36 FLUSHED" 0 -1 37 0 1 0 0
-cue/029 3000 "p36 Girls enter" 0 -1 38 0 1 0 0
-cue/030 3100 "p38 Song ends" 0 -1 39 0 1 0 0
-cue/031 3200 "p39 Pippi enters" 0 -1 40 0 1 0 0
-cue/032 3300 "p39 Pippi exits" 0 -1 41 0 1 0 0
-cue/033 3400 "p40 STORMS A BRE" 0 -1 42 0 1 0 0
-cue/034 3500 "p41 Pippi enters" 0 -1 43 0 1 0 0
-cue/035 3600 "p42 Song ends" 0 -1 44 0 1 0 0
-cue/036 3700 "p44 Girls enter" 0 -1 45 0 1 0 0
-cue/037 3800 "p47 Pippi Norber" 0 -1 46 0 1 0 0
-cue/038 3900 "p47 Duke exits" 0 -1 47 0 1 0 0
-cue/039 4000 "p47 Girls exit" 0 -1 48 0 1 0 0
-cue/040 4100 "p50 Jeannie in t" 0 -1 49 0 1 0 0
-cue/041 4200 "p50 Lights up on" 0 -1 50 0 1 0 0
-cue/042 4300 "p51 Song ends" 0 -1 51 0 1 0 0
-cue/043 4400 "p54 Duke enters" 0 -1 52 0 1 0 0
-cue/044 4500 "p56 PANIC" 0 -1 53 0 1 0 0
-cue/045 4600 "p57 Lights on Pi" 0 -1 54 0 1 0 0
-cue/046 4700 "p57 Lights on Je" 0 -1 55 0 1 0 0
-cue/047 4800 "p58 Pippi enters" 0 -1 56 0 1 0 0
-cue/048 4900 "p58 Girls enter" 0 -1 57 0 1 0 0
-cue/049 5000 "p59 Norbert ente" 0 -1 58 0 1 0 0
-cue/050 5100 "p59 Gunshot" 0 -1 59 0 1 0 0
-cue/051 5200 "p65 After bows" 0 -1 60 0 1 0 0
+cue/000 100 "p7 Preshow music" 0 -1 8 0 1 0 0
+cue/001 110 "p7 Top of show" 0 -1 9 0 1 0 0
+cue/002 200 "p10 Norbert ente" 0 -1 10 0 1 0 0
+cue/003 300 "p11 Fight to bac" 0 -1 11 0 1 0 0
+cue/004 400 "p12 Pippi enters" 0 -1 12 0 1 0 0
+cue/005 500 "p13 Song ends" 0 -1 13 0 1 0 0
+cue/006 600 "p13 Flashback" 0 -1 14 0 1 0 0
+cue/007 700 "p14 ONE STEP CLO" 0 -1 15 0 1 0 0
+cue/008 800 "p16 Girls exit" 0 -1 16 0 1 0 0
+cue/009 900 "p17 Song ends" 0 -1 17 0 1 0 0
+cue/010 1000 "p17 Pippi enters" 0 -1 18 0 1 0 0
+cue/011 1100 "p19 Song ends" 0 -1 19 0 1 0 0
+cue/012 1200 "p19 Men exit" 0 -1 20 0 1 0 0
+cue/013 1300 "p20 Lights up on" 0 -1 21 0 1 0 0
+cue/014 1400 "p21 Pippi opens " 0 -1 22 0 1 0 0
+cue/015 1500 "p22 Pippi tosses" 0 -1 23 0 1 0 0
+cue/016 1600 "p23 Top of page" 0 -1 24 0 1 0 0
+cue/017 1700 "p24 Interior of " 0 -1 25 0 1 0 0
+cue/018 1800 "p27 Song ends" 0 -1 26 0 1 0 0
+cue/019 1900 "p28 Duke enters" 0 -1 27 0 1 0 0
+cue/020 2000 "p29 Duke exits" 0 -1 28 0 1 0 0
+cue/021 2100 "p29 Pippi enters" 0 -1 29 0 1 0 0
+cue/022 2200 "p30 Jeanie enter" 0 -1 30 0 1 0 0
+cue/023 2300 "p30 Gar trailer " 0 -1 31 0 1 0 0
+cue/024 2400 "p31 GREAT AMER T" 0 -1 32 0 1 0 0
+cue/025 2500 "p32 Top of page " 0 -1 33 0 1 0 0
+cue/026 2600 "p32 After Norber" 0 -1 34 0 1 0 0
+cue/027 2700 "p33 Pippi grabs " 0 -1 35 0 1 0 0
+cue/028 2800 "p33 Music out" 0 -1 36 0 1 0 0
+cue/029 2900 "p36 FLUSHED" 0 -1 37 0 1 0 0
+cue/030 3000 "p36 Girls enter" 0 -1 38 0 1 0 0
+cue/031 3100 "p38 Song ends" 0 -1 39 0 1 0 0
+cue/032 3200 "p39 Pippi enters" 0 -1 40 0 1 0 0
+cue/033 3300 "p39 Pippi exits" 0 -1 41 0 1 0 0
+cue/034 3400 "p40 STORMS A BRE" 0 -1 42 0 1 0 0
+cue/035 3500 "p41 Pippi enters" 0 -1 43 0 1 0 0
+cue/036 3600 "p42 Song ends" 0 -1 44 0 1 0 0
+cue/037 3700 "p44 Girls enter" 0 -1 45 0 1 0 0
+cue/038 3800 "p47 Pippi Norber" 0 -1 46 0 1 0 0
+cue/039 3900 "p47 Duke exits" 0 -1 47 0 1 0 0
+cue/040 4000 "p47 Girls exit" 0 -1 48 0 1 0 0
+cue/041 4100 "p50 Jeannie in t" 0 -1 49 0 1 0 0
+cue/042 4200 "p50 Lights up on" 0 -1 50 0 1 0 0
+cue/043 4300 "p51 Song ends" 0 -1 51 0 1 0 0
+cue/044 4400 "p54 Duke enters" 0 -1 52 0 1 0 0
+cue/045 4500 "p56 PANIC" 0 -1 53 0 1 0 0
+cue/046 4600 "p57 Lights on Pi" 0 -1 54 0 1 0 0
+cue/047 4700 "p57 Lights on Je" 0 -1 55 0 1 0 0
+cue/048 4800 "p58 Pippi enters" 0 -1 56 0 1 0 0
+cue/049 4900 "p58 Girls enter" 0 -1 57 0 1 0 0
+cue/050 5000 "p59 Norbert ente" 0 -1 58 0 1 0 0
+cue/051 5100 "p59 Gunshot" 0 -1 59 0 1 0 0
+cue/052 5200 "p65 After bows" 0 -1 60 0 1 0 0
 scene/000 "power on scene" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
