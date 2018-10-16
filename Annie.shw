@@ -1,0 +1,134 @@
+#2.6#
+show "Annie" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
+cue/000 100 "Preshow" 0 -1 9 0 1 0 0
+cue/001 200 "p1 Top of show" 0 -1 10 0 1 0 0
+cue/002 300 "p7 Hannigan Ente" 0 -1 11 0 1 0 0
+cue/003 400 "p8 Hard Knock Li" 0 -1 12 0 1 0 0
+cue/004 500 "p14 Bundles Ente" 0 -1 13 0 1 0 0
+cue/005 600 "p16 Hard Knock R" 0 -1 14 0 1 0 0
+cue/006 700 "p18 Tomorrow" 0 -1 15 0 1 0 0
+cue/007 800 "p22 Scene 3" 0 -1 16 0 1 0 0
+cue/008 900 "p25 Hooverville" 0 -1 17 0 1 0 0
+cue/009 1000 "p29 Little Girls" 0 -1 18 0 1 0 0
+cue/010 1100 "p32 Lt Ward Ente" 0 -1 19 0 1 0 0
+cue/011 1200 "p34 Grace Enters" 0 -1 20 0 1 0 0
+cue/012 1300 "p39 Little Girls" 0 -1 21 0 1 0 0
+cue/013 1400 "p40 Gonna Like I" 0 -1 22 0 1 0 0
+cue/014 1500 "p46 Warbucks Ent" 0 -1 23 0 1 0 0
+cue/015 1600 "p55 NYC" 0 -1 24 0 1 0 0
+cue/016 1700 "p60 Scene 7" 0 -1 25 0 1 0 0
+cue/017 1800 "p63 Rooster Ente" 0 -1 26 0 1 0 0
+cue/018 1900 "p70 Warbucks Man" 0 -1 27 0 1 0 0
+cue/019 2000 "p73 You Won't be" 0 -1 28 0 1 0 0
+cue/020 2100 "p80 Intermission" 0 -1 30 0 1 0 0
+cue/021 2200 "p81 Scene 1" 0 -1 36 0 1 0 0
+cue/022 2300 "p88 Fully Dresse" 0 -1 37 0 1 0 0
+cue/023 2400 "p91 Orphans Exit" 0 -1 38 0 1 0 0
+cue/024 2500 "p95 FDR & Cabine" 0 -1 39 0 1 0 0
+cue/025 2600 "p106 Warbucks Ma" 0 -1 40 0 1 0 0
+cue/026 2700 "p109 Something w" 0 -1 41 0 1 0 0
+cue/027 2800 "p110 Scene 5" 0 -1 42 0 1 0 0
+cue/028 2900 "p112 I Don't Nee" 0 -1 43 0 1 0 0
+cue/029 3000 "p119 Brandeis En" 0 -1 44 0 1 0 0
+cue/030 3100 "p124 Rooster Exi" 0 -1 45 0 1 0 0
+cue/031 3200 "p127 Scene 6" 0 -1 46 0 1 0 0
+cue/032 3300 "p130 Hannigan En" 0 -1 47 0 1 0 0
+cue/033 3400 "p133 Rooster Ent" 0 -1 48 0 1 0 0
+cue/034 3500 "p135 Orphans Sin" 0 -1 49 0 1 0 0
+cue/035 3600 "p137 Crooks Off" 0 -1 50 0 1 0 0
+cue/036 3700 "p142 Bows" 0 -1 52 0 1 0 0
+scene/000 "power on" "" %000000000 1
+snippet/000 "" 0 0 0 0 1
+snippet/001 "" 0 0 0 0 1
+snippet/002 "" 0 0 0 0 1
+snippet/003 "" 0 0 0 0 1
+snippet/004 "" 0 0 0 0 1
+snippet/005 "" 0 0 0 0 1
+snippet/006 "" 0 0 0 0 1
+snippet/007 "" 0 0 0 0 1
+snippet/008 "" 0 0 0 0 1
+snippet/009 "Preshow" 0 0 0 0 1
+snippet/010 "p1 Top of show" 0 0 0 0 1
+snippet/011 "p7 Hannigan Ente" 0 0 0 0 1
+snippet/012 "p8 Hard Knock Li" 0 0 0 0 1
+snippet/013 "p14 Bundles Ente" 0 0 0 0 1
+snippet/014 "p16 Hard Knock R" 0 0 0 0 1
+snippet/015 "p18 Tomorrow" 0 0 0 0 1
+snippet/016 "p22 Scene 3" 0 0 0 0 1
+snippet/017 "p25 Hooverville" 0 0 0 0 1
+snippet/018 "p29 Little Girls" 0 0 0 0 1
+snippet/019 "p32 Lt Ward Ente" 0 0 0 0 1
+snippet/020 "p34 Grace Enters" 0 0 0 0 1
+snippet/021 "p39 Little Girls" 0 0 0 0 1
+snippet/022 "p40 Gonna Like I" 0 0 0 0 1
+snippet/023 "p46 Warbucks Ent" 0 0 0 0 1
+snippet/024 "p55 NYC" 0 0 0 0 1
+snippet/025 "p60 Scene 7" 0 0 0 0 1
+snippet/026 "p63 Rooster Ente" 0 0 0 0 1
+snippet/027 "p70 Warbucks Man" 0 0 0 0 1
+snippet/028 "p73 You Won't be" 0 0 0 0 1
+snippet/029 "" 0 0 0 0 1
+snippet/030 "p80 Intermission" 0 0 0 0 1
+snippet/031 "" 0 0 0 0 1
+snippet/032 "" 0 0 0 0 1
+snippet/033 "" 0 0 0 0 1
+snippet/034 "" 0 0 0 0 1
+snippet/035 "" 0 0 0 0 1
+snippet/036 "p81 Scene 1" 0 0 0 0 1
+snippet/037 "p88 Fully Dresse" 0 0 0 0 1
+snippet/038 "p91 Orphans Exit" 0 0 0 0 1
+snippet/039 "p95 FDR & Cabine" 0 0 0 0 1
+snippet/040 "p106 Warbucks Ma" 0 0 0 0 1
+snippet/041 "p109 Something w" 0 0 0 0 1
+snippet/042 "p110 Scene 5" 0 0 0 0 1
+snippet/043 "p112 I Don't Nee" 0 0 0 0 1
+snippet/044 "p119 Brandeis En" 0 0 0 0 1
+snippet/045 "p124 Rooster Exi" 0 0 0 0 1
+snippet/046 "p127 Scene 6" 0 0 0 0 1
+snippet/047 "p130 Hannigan En" 0 0 0 0 1
+snippet/048 "p133 Rooster Ent" 0 0 0 0 1
+snippet/049 "p135 Orphans Sin" 0 0 0 0 1
+snippet/050 "p137 Crooks Off" 0 0 0 0 1
+snippet/051 "" 0 0 0 0 1
+snippet/052 "p142 Bows" 0 0 0 0 1
+snippet/053 "" 0 0 0 0 1
+snippet/054 "" 0 0 0 0 1
+snippet/055 "" 0 0 0 0 1
+snippet/056 "" 0 0 0 0 1
+snippet/057 "" 0 0 0 0 1
+snippet/058 "" 0 0 0 0 1
+snippet/059 "" 0 0 0 0 1
+snippet/060 "" 0 0 0 0 1
+snippet/061 "" 0 0 0 0 1
+snippet/062 "" 0 0 0 0 1
+snippet/063 "" 0 0 0 0 1
+snippet/064 "" 0 0 0 0 1
+snippet/065 "" 0 0 0 0 1
+snippet/066 "" 0 0 0 0 1
+snippet/067 "" 0 0 0 0 1
+snippet/068 "" 0 0 0 0 1
+snippet/069 "" 0 0 0 0 1
+snippet/070 "" 0 0 0 0 1
+snippet/071 "" 0 0 0 0 1
+snippet/072 "" 0 0 0 0 1
+snippet/073 "" 0 0 0 0 1
+snippet/074 "" 0 0 0 0 1
+snippet/075 "" 0 0 0 0 1
+snippet/076 "" 0 0 0 0 1
+snippet/077 "" 0 0 0 0 1
+snippet/078 "" 0 0 0 0 1
+snippet/079 "" 0 0 0 0 1
+snippet/080 "" 0 0 0 0 1
+snippet/081 "" 0 0 0 0 1
+snippet/082 "" 0 0 0 0 1
+snippet/083 "" 0 0 0 0 1
+snippet/084 "" 0 0 0 0 1
+snippet/085 "" 0 0 0 0 1
+snippet/086 "" 0 0 0 0 1
+snippet/087 "" 0 0 0 0 1
+snippet/088 "" 0 0 0 0 1
+snippet/089 "" 0 0 0 0 1
+snippet/090 "" 0 0 0 0 1
+snippet/091 "" 0 0 0 0 1
+snippet/092 "" 0 0 0 0 1
+snippet/093 "" 0 0 0 0 1
