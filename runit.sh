@@ -1,1 +1,1 @@
-./X32Snippets.py ~/Downloads/TrailerPark_DCA_Assignments.ods TGATPM
+./X32Snippets.py ~/Downloads/Annie_DCA_Assignments.ods Annie

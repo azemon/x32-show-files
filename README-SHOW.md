@@ -1,5 +1,5 @@
-# The Great American Trailer Park Musical #
+# Annie the Musical
 
 Act Two Theatre, St. Peters, MO
 
-August 2018
+November 2018
