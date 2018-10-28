@@ -1,5 +1,5 @@
 #2.6#
-show "Annie" 0 0 0 15 0 0 0 0 0 0 "X32-Edit 3.00"
+show "Annie" 0 0 0 0 0 0 0 0 0 0 "X32-Edit 3.00"
 cue/000 100 "Preshow" 0 -1 9 0 1 0 0
 cue/001 200 "p1 Top of show" 0 -1 10 0 1 0 0
 cue/002 300 "p7 Hannigan Ente" 0 -1 11 0 1 0 0

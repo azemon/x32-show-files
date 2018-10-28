@@ -55,11 +55,11 @@
 /dca/3/config/color OFF
 /dca/4/config/name ""
 /dca/4/config/color OFF
-/dca/5/config/name "Warbucks"
-/dca/5/config/color WH
-/dca/6/config/name "Grace"
+/dca/5/config/name ""
+/dca/5/config/color OFF
+/dca/6/config/name "Warbucks"
 /dca/6/config/color WH
-/dca/7/config/name ""
-/dca/7/config/color OFF
+/dca/7/config/name "Grace"
+/dca/7/config/color WH
 /dca/8/config/name ""
 /dca/8/config/color OFF

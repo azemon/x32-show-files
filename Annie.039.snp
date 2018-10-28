@@ -47,19 +47,19 @@
 /ch/15/mix/on ON
 /ch/16/mix/on ON
 /ch/24/mix/on ON
-/dca/1/config/name "Morganthau"
+/dca/1/config/name "Annie"
 /dca/1/config/color WH
-/dca/2/config/name "Roosevelt"
+/dca/2/config/name "Morganthau"
 /dca/2/config/color WH
-/dca/3/config/name "Ickes"
+/dca/3/config/name "Roosevelt"
 /dca/3/config/color WH
-/dca/4/config/name "Howe"
+/dca/4/config/name "Ickes"
 /dca/4/config/color WH
-/dca/5/config/name "Warbucks"
+/dca/5/config/name "Howe"
 /dca/5/config/color WH
-/dca/6/config/name "Man 1"
+/dca/6/config/name "Warbucks"
 /dca/6/config/color WH
-/dca/7/config/name "Perkins"
+/dca/7/config/name "Man 1"
 /dca/7/config/color WH
-/dca/8/config/name ""
-/dca/8/config/color OFF
+/dca/8/config/name "Perkins"
+/dca/8/config/color WH
