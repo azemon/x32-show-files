@@ -23,7 +23,7 @@
 /ch/08/grp/dca 0
 /ch/09/grp/dca 0
 /ch/10/grp/dca 0
-/ch/11/grp/dca 2
+/ch/11/grp/dca 8
 /ch/12/grp/dca 0
 /ch/13/grp/dca 0
 /ch/14/grp/dca 0
@@ -53,8 +53,8 @@
 /dca/2/config/color WH
 /dca/3/config/name "Women"
 /dca/3/config/color WH
-/dca/4/config/name ""
-/dca/4/config/color OFF
+/dca/4/config/name "Drake"
+/dca/4/config/color WH
 /dca/5/config/name ""
 /dca/5/config/color OFF
 /dca/6/config/name "Warbucks"

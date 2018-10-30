@@ -1,4 +1,4 @@
-#2.6#
+#2.7#
 show "Annie" 0 0 0 0 0 0 0 0 0 0 "X32-Edit 3.00"
 cue/000 100 "Preshow" 0 -1 9 0 1 0 0
 cue/001 200 "p1 Top of show" 0 -1 10 0 1 0 0
@@ -12,7 +12,7 @@ cue/008 900 "p25 Hooverville" 0 -1 17 0 1 0 0
 cue/009 1000 "p29 Little Girls" 0 -1 18 0 1 0 0
 cue/010 1100 "p32 Lt Ward Ente" 0 -1 19 0 1 0 0
 cue/011 1200 "p34 Grace Enters" 0 -1 20 0 1 0 0
-cue/012 1300 "p39 Little Girls" 0 -1 21 0 1 0 0
+cue/012 1300 "p39 Orphans Ente" 0 -1 21 0 1 0 0
 cue/013 1400 "p40 Gonna Like I" 0 -1 22 0 1 0 0
 cue/014 1500 "p46 Warbucks Ent" 0 -1 23 0 1 0 0
 cue/015 1600 "p55 NYC" 0 -1 24 0 1 0 0
@@ -36,7 +36,9 @@ cue/032 3300 "p130 Hannigan En" 0 -1 47 0 1 0 0
 cue/033 3400 "p133 Rooster Ent" 0 -1 48 0 1 0 0
 cue/034 3500 "p135 Orphans Sin" 0 -1 49 0 1 0 0
 cue/035 3600 "p137 Crooks Off" 0 -1 50 0 1 0 0
-cue/036 3700 "p142 Bows" 0 -1 52 0 1 0 0
+cue/036 3700 "p141 Bows" 0 -1 52 0 1 0 0
+cue/037 3800 "p141 After Bows" 0 -1 53 0 1 0 0
+cue/038 3900 "p142 End of Show" 0 -1 54 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
