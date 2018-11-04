@@ -11,7 +11,7 @@
 /config/talk ON INT
 /config/talk/A   0.0 ON OFF %000000000000000011
 /config/talk/B   0.0 ON OFF %000000000000000011
-/config/osc   -oo 56.4 2k00 F1 PINK 1
+/config/osc   -oo 56.4 2k00 F1 PINK 20
 /config/routing REC
 /config/routing/IN AN1-8 AN9-16 AN17-24 A1-8 CARD1-2
 /config/routing/AES50A OUT1-8 OUT9-16 OUT1-8 OUT9-16 P161-8 P169-16
@@ -33,13 +33,13 @@
 /ch/01/config "Annie" 1 YE 1
 /ch/01/delay OFF   0.3
 /ch/01/preamp +0.0 OFF ON 24  61
-/ch/01/gate ON GATE -35.0 60.0 1  502  504 0
+/ch/01/gate ON GATE -34.0 60.0 0  502  504 0
 /ch/01/gate/filter OFF 3.0 990.9
-/ch/01/dyn ON COMP RMS LOG -16.5 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
+/ch/01/dyn ON COMP RMS LOG -16.5 3.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/01/dyn/filter OFF LC6 990.9
 /ch/01/insert OFF POST OFF
 /ch/01/eq ON
-/ch/01/eq/1 PEQ 124.7 +0.00 2.0
+/ch/01/eq/1 PEQ 202.3 -2.00 2.0
 /ch/01/eq/2 PEQ 403.7 +3.00 1.3
 /ch/01/eq/3 PEQ 1k97 +0.00 2.0
 /ch/01/eq/4 HShv 14k15 -4.50 2.0
@@ -65,7 +65,7 @@
 /ch/02/config "Hannigan" 1 YE 2
 /ch/02/delay OFF   0.3
 /ch/02/preamp +0.0 OFF ON 24  61
-/ch/02/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/02/gate ON GATE -35.0 60.0 1  502  504 0
 /ch/02/gate/filter OFF 3.0 990.9
 /ch/02/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/02/dyn/filter OFF LC6 990.9
@@ -97,7 +97,7 @@
 /ch/03/config "Grace" 1 YE 3
 /ch/03/delay OFF   0.3
 /ch/03/preamp +0.0 OFF ON 24  61
-/ch/03/gate ON GATE -35.0 60.0 1  502  504 0
+/ch/03/gate ON GATE -36.5 60.0 0  502  504 0
 /ch/03/gate/filter OFF 3.0 990.9
 /ch/03/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/03/dyn/filter OFF LC6 990.9
@@ -129,14 +129,14 @@
 /ch/04/config "Warbucks" 1 YE 4
 /ch/04/delay OFF   0.3
 /ch/04/preamp +0.0 OFF ON 24  61
-/ch/04/gate ON GATE -35.0 60.0 1  502  504 0
+/ch/04/gate ON GATE -35.5 60.0 0  502  504 0
 /ch/04/gate/filter OFF 3.0 990.9
 /ch/04/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/04/dyn/filter OFF LC6 990.9
 /ch/04/insert OFF POST OFF
 /ch/04/eq ON
 /ch/04/eq/1 PEQ 124.7 +0.00 2.0
-/ch/04/eq/2 PEQ 285.8 -4.75 1.9
+/ch/04/eq/2 PEQ 232.3 -4.25 6.1
 /ch/04/eq/3 PEQ 1k97 +0.00 2.0
 /ch/04/eq/4 HShv 10k02 -6.75 2.0
 /ch/04/mix OFF   0.0 OFF +0 OFF   0.0
@@ -161,7 +161,7 @@
 /ch/05/config "Molly" 1 MG 5
 /ch/05/delay OFF   0.3
 /ch/05/preamp +0.0 OFF ON 24  61
-/ch/05/gate ON GATE -35.0 60.0 1  502  504 0
+/ch/05/gate ON GATE -35.0 60.0 0  502  504 0
 /ch/05/gate/filter OFF 3.0 990.9
 /ch/05/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/05/dyn/filter OFF LC6 990.9
@@ -193,7 +193,7 @@
 /ch/06/config "Katie" 1 MG 6
 /ch/06/delay OFF   0.3
 /ch/06/preamp +0.0 OFF ON 24  61
-/ch/06/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/06/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/06/gate/filter OFF 3.0 990.9
 /ch/06/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/06/dyn/filter OFF LC6 990.9
@@ -225,7 +225,7 @@
 /ch/07/config "Tessie" 1 MG 7
 /ch/07/delay OFF   0.3
 /ch/07/preamp +0.0 OFF ON 24  61
-/ch/07/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/07/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/07/gate/filter OFF 3.0 990.9
 /ch/07/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/07/dyn/filter OFF LC6 990.9
@@ -257,7 +257,7 @@
 /ch/08/config "Pepper" 1 MG 8
 /ch/08/delay OFF   0.3
 /ch/08/preamp +0.0 OFF ON 24  61
-/ch/08/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/08/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/08/gate/filter OFF 3.0 990.9
 /ch/08/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/08/dyn/filter OFF LC6 990.9
@@ -289,7 +289,7 @@
 /ch/09/config "July" 1 MG 9
 /ch/09/delay OFF   0.3
 /ch/09/preamp +0.0 OFF ON 24  61
-/ch/09/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/09/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/09/gate/filter OFF 3.0 990.9
 /ch/09/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/09/dyn/filter OFF LC6 990.9
@@ -321,7 +321,7 @@
 /ch/10/config "Duffy" 1 MG 10
 /ch/10/delay OFF   0.3
 /ch/10/preamp +0.0 OFF ON 24  61
-/ch/10/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/10/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/10/gate/filter OFF 3.0 990.9
 /ch/10/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/10/dyn/filter OFF LC6 990.9
@@ -353,7 +353,7 @@
 /ch/11/config "Drake" 1 CY 11
 /ch/11/delay OFF   0.3
 /ch/11/preamp +0.0 OFF ON 24  61
-/ch/11/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/11/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/11/gate/filter OFF 3.0 990.9
 /ch/11/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/11/dyn/filter OFF LC6 990.9
@@ -385,7 +385,7 @@
 /ch/12/config "Roosevelt" 1 CY 12
 /ch/12/delay OFF   0.3
 /ch/12/preamp +0.0 OFF ON 24  61
-/ch/12/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/12/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/12/gate/filter OFF 3.0 990.9
 /ch/12/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/12/dyn/filter OFF LC6 990.9
@@ -417,7 +417,7 @@
 /ch/13/config "Rooster" 1 CY 13
 /ch/13/delay OFF   0.3
 /ch/13/preamp +0.0 OFF ON 24  61
-/ch/13/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/13/gate ON GATE -35.0 60.0 0  502  504 0
 /ch/13/gate/filter OFF 3.0 990.9
 /ch/13/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/13/dyn/filter OFF LC6 990.9
@@ -449,7 +449,7 @@
 /ch/14/config "Bundles" 1 CY 14
 /ch/14/delay OFF   0.3
 /ch/14/preamp +0.0 OFF ON 24  61
-/ch/14/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/14/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/14/gate/filter OFF 3.0 990.9
 /ch/14/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/14/dyn/filter OFF LC6 990.9
@@ -481,7 +481,7 @@
 /ch/15/config "Lt Ward" 1 CY 15
 /ch/15/delay OFF   0.3
 /ch/15/preamp +0.0 OFF ON 24  61
-/ch/15/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/15/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/15/gate/filter OFF 3.0 990.9
 /ch/15/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/15/dyn/filter OFF LC6 990.9
@@ -513,7 +513,7 @@
 /ch/16/config "Man 1" 1 CY 16
 /ch/16/delay OFF   0.3
 /ch/16/preamp +0.0 OFF ON 24  61
-/ch/16/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/16/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/16/gate/filter OFF 3.0 990.9
 /ch/16/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/16/dyn/filter OFF LC6 990.9
@@ -545,7 +545,7 @@
 /ch/17/config "Lilly" 1 RD 17
 /ch/17/delay OFF   0.3
 /ch/17/preamp +0.0 OFF ON 24  61
-/ch/17/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/17/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/17/gate/filter OFF 3.0 990.9
 /ch/17/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/17/dyn/filter OFF LC6 990.9
@@ -577,7 +577,7 @@
 /ch/18/config "Berta Healy" 1 RD 18
 /ch/18/delay OFF   0.3
 /ch/18/preamp +0.0 OFF ON 24  61
-/ch/18/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/18/gate ON GATE -35.0 60.0 0  502  504 0
 /ch/18/gate/filter OFF 3.0 990.9
 /ch/18/dyn ON COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/18/dyn/filter OFF LC6 990.9
@@ -609,7 +609,7 @@
 /ch/19/config "Woman 1" 1 RD 19
 /ch/19/delay OFF   0.3
 /ch/19/preamp +0.0 OFF ON 24  61
-/ch/19/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/19/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/19/gate/filter OFF 3.0 990.9
 /ch/19/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/19/dyn/filter OFF LC6 990.9
@@ -641,7 +641,7 @@
 /ch/20/config "Ronnie Boyla" 1 RD 20
 /ch/20/delay OFF   0.3
 /ch/20/preamp +0.0 OFF ON 24  61
-/ch/20/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/20/gate ON GATE -37.0 60.0 0  502  504 0
 /ch/20/gate/filter OFF 3.0 990.9
 /ch/20/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/20/dyn/filter OFF LC6 990.9
@@ -673,7 +673,7 @@
 /ch/21/config "Bonnie Boyla" 1 RD 21
 /ch/21/delay OFF   0.3
 /ch/21/preamp +0.0 OFF ON 24  61
-/ch/21/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/21/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/21/gate/filter OFF 3.0 990.9
 /ch/21/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/21/dyn/filter OFF LC6 990.9
@@ -705,7 +705,7 @@
 /ch/22/config "Mrs Pugh" 1 RD 22
 /ch/22/delay OFF   0.3
 /ch/22/preamp +0.0 OFF ON 24  61
-/ch/22/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/22/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/22/gate/filter OFF 3.0 990.9
 /ch/22/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/22/dyn/filter OFF LC6 990.9
@@ -737,7 +737,7 @@
 /ch/23/config "Mrs Greer" 1 RD 23
 /ch/23/delay OFF   0.3
 /ch/23/preamp +0.0 OFF ON 24  61
-/ch/23/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/23/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/23/gate/filter OFF 3.0 990.9
 /ch/23/dyn ON COMP RMS LOG -21.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/23/dyn/filter OFF LC6 990.9
@@ -769,7 +769,7 @@
 /ch/24/config "Perkins" 1 RD 24
 /ch/24/delay OFF   0.3
 /ch/24/preamp +0.0 OFF ON 24  61
-/ch/24/gate ON GATE -30.0 60.0 1  502  504 0
+/ch/24/gate ON GATE -30.0 60.0 0  502  504 0
 /ch/24/gate/filter OFF 3.0 990.9
 /ch/24/dyn OFF COMP RMS LOG -20.0 4.0 4 0.00 10 10.0  151 POST 0 100 OFF
 /ch/24/dyn/filter OFF LC6 990.9
@@ -907,7 +907,7 @@
 /ch/28/eq/2 PEQ 496.6 +0.00 2.0
 /ch/28/eq/3 PEQ 1k97 +0.00 2.0
 /ch/28/eq/4 HShv 10k02 +0.00 2.0
-/ch/28/mix OFF   0.0 OFF +0 OFF   -oo
+/ch/28/mix OFF  -0.6 OFF +0 OFF   -oo
 /ch/28/mix/01 ON   -oo +0 POST
 /ch/28/mix/02 ON -10.0
 /ch/28/mix/03 ON   0.0 +0 POST
@@ -1061,7 +1061,7 @@
 /auxin/01/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/01/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/01/eq/4 HShv 10k02 +0.00 2.0
-/auxin/01/mix OFF  -0.2 ON -100 ON   0.0
+/auxin/01/mix ON  +5.0 ON -100 ON   0.0
 /auxin/01/mix/01 ON   -oo -100 POST
 /auxin/01/mix/02 ON   -oo
 /auxin/01/mix/03 ON   -oo -100 POST
@@ -1086,7 +1086,7 @@
 /auxin/02/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/02/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/02/eq/4 HShv 10k02 +0.00 2.0
-/auxin/02/mix OFF  -0.2 ON +100 ON   0.0
+/auxin/02/mix ON  +5.0 ON +100 ON   0.0
 /auxin/02/mix/01 ON   -oo +100 POST
 /auxin/02/mix/02 ON   -oo
 /auxin/02/mix/03 ON   -oo +100 POST
@@ -1495,7 +1495,7 @@
 /bus/03/eq/4 PEQ 1k97 +0.00 2.0
 /bus/03/eq/5 PEQ 5k02 +0.00 2.0
 /bus/03/eq/6 HShv 10k02 +0.00 2.0
-/bus/03/mix OFF   0.0 ON +0 ON   0.0
+/bus/03/mix OFF  -0.1 ON +0 ON   0.0
 /bus/03/mix/01 ON -10.0 +0 POST
 /bus/03/mix/02 ON   0.0
 /bus/03/mix/03 ON   -oo +0 POST
@@ -1742,7 +1742,7 @@
 /bus/16/eq/4 PEQ 1k97 +0.00 2.0
 /bus/16/eq/5 PEQ 5k02 +0.00 2.0
 /bus/16/eq/6 HShv 10k02 +0.00 2.0
-/bus/16/mix ON   -oo OFF +0 OFF   -oo
+/bus/16/mix ON -65.1 OFF +0 OFF   -oo
 /bus/16/mix/01 ON   -oo +0 POST
 /bus/16/mix/02 ON   -oo
 /bus/16/mix/03 ON   -oo +0 POST
@@ -1769,7 +1769,7 @@
 /mtx/02/dyn/filter OFF 3.0 990.9
 /mtx/02/insert OFF PRE OFF
 /mtx/02/eq ON
-/mtx/02/eq/1 HCut 69.3 -15.0 2.0
+/mtx/02/eq/1 HCut 60.4 -15.0 2.0
 /mtx/02/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/02/eq/3 PEQ 496.6 +0.00 2.0
 /mtx/02/eq/4 PEQ 1k97 +0.00 2.0
@@ -1864,21 +1864,21 @@
 /main/m/mix/04 ON   -oo
 /main/m/mix/05 ON   -oo +0 POST
 /main/m/mix/06 ON   -oo
-/dca/1 ON   -oo
+/dca/1 ON  -6.6
 /dca/1/config "" 1 OFF
-/dca/2 ON   -oo
+/dca/2 ON  -6.6
 /dca/2/config "" 1 OFF
-/dca/3 ON   -oo
+/dca/3 ON  -5.1
 /dca/3/config "" 1 OFF
-/dca/4 ON   -oo
+/dca/4 ON  -7.0
 /dca/4/config "" 1 OFF
-/dca/5 ON   -oo
+/dca/5 ON  -8.0
 /dca/5/config "" 1 OFF
-/dca/6 ON   -oo
+/dca/6 ON  -5.1
 /dca/6/config "" 1 OFF
-/dca/7 ON   -oo
+/dca/7 ON  -8.4
 /dca/7/config "" 1 OFF
-/dca/8 ON   -oo
+/dca/8 ON  -7.2
 /dca/8/config "" 1 OFF
 /fx/1 HALL
 /fx/1/source MIX13 MIX13
@@ -1974,30 +1974,30 @@
 /outputs/aes/02 65 POST OFF
 /outputs/rec/01 1 PRE
 /outputs/rec/02 2 PRE
-/headamp/000 +9.5 OFF
+/headamp/000 +12.5 OFF
 /headamp/001 +21.0 OFF
-/headamp/002 +16.0 OFF
-/headamp/003 +8.0 OFF
-/headamp/004 +19.5 OFF
-/headamp/005 +17.0 OFF
+/headamp/002 +15.5 OFF
+/headamp/003 +11.0 OFF
+/headamp/004 +13.5 OFF
+/headamp/005 +16.5 OFF
 /headamp/006 +17.5 OFF
-/headamp/007 +10.5 OFF
-/headamp/008 +11.0 OFF
-/headamp/009 +18.0 OFF
-/headamp/010 +8.0 OFF
-/headamp/011 +11.5 OFF
-/headamp/012 +27.5 OFF
+/headamp/007 +9.0 OFF
+/headamp/008 +6.5 OFF
+/headamp/009 +8.0 OFF
+/headamp/010 +7.0 OFF
+/headamp/011 +7.5 OFF
+/headamp/012 +27.0 OFF
 /headamp/013 +26.0 OFF
 /headamp/014 +5.5 OFF
-/headamp/015 +22.5 OFF
-/headamp/016 +21.5 OFF
-/headamp/017 +18.5 OFF
-/headamp/018 +30.0 OFF
-/headamp/019 +19.0 OFF
-/headamp/020 +24.5 OFF
-/headamp/021 +24.0 OFF
-/headamp/022 +26.0 OFF
-/headamp/023 +19.0 OFF
+/headamp/015 +18.5 OFF
+/headamp/016 +18.0 OFF
+/headamp/017 +13.5 OFF
+/headamp/018 +24.5 OFF
+/headamp/019 +15.5 OFF
+/headamp/020 +21.5 OFF
+/headamp/021 +21.5 OFF
+/headamp/022 +27.0 OFF
+/headamp/023 +19.5 OFF
 /headamp/024 +0.0 OFF
 /headamp/025 +0.0 OFF
 /headamp/026 +0.0 OFF
@@ -2010,7 +2010,7 @@
 /headamp/033 +4.0 OFF
 /headamp/034 +31.0 OFF
 /headamp/035 +18.5 OFF
-/headamp/036 +45.0 OFF
+/headamp/036 +39.5 OFF
 /headamp/037 +0.0 OFF
 /headamp/038 +0.0 OFF
 /headamp/039 +0.0 OFF
