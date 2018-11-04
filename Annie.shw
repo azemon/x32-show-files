@@ -8,7 +8,7 @@ cue/004 500 "p14 Bundles Ente" 0 -1 13 0 1 0 0
 cue/005 600 "p16 Hard Knock R" 0 -1 14 0 1 0 0
 cue/006 700 "p18 Tomorrow" 0 -1 15 0 1 0 0
 cue/007 800 "p22 Scene 3" 0 -1 16 0 1 0 0
-cue/008 900 "p25 Hooverville" 0 -1 17 0 1 0 0
+cue/008 900 "p28 Lt Ward Ente" 0 -1 17 0 1 0 0
 cue/009 1000 "p29 Little Girls" 0 -1 18 0 1 0 0
 cue/010 1100 "p32 Lt Ward Ente" 0 -1 19 0 1 0 0
 cue/011 1200 "p34 Grace Enters" 0 -1 20 0 1 0 0
@@ -19,26 +19,27 @@ cue/015 1600 "p55 NYC" 0 -1 24 0 1 0 0
 cue/016 1700 "p60 Scene 7" 0 -1 25 0 1 0 0
 cue/017 1800 "p63 Rooster Ente" 0 -1 26 0 1 0 0
 cue/018 1900 "p70 Warbucks Man" 0 -1 27 0 1 0 0
-cue/019 2000 "p73 You Won't be" 0 -1 28 0 1 0 0
+cue/019 2000 "p71 Drake Enters" 0 -1 28 0 1 0 0
 cue/020 2100 "p80 Intermission" 0 -1 30 0 1 0 0
 cue/021 2200 "p81 Scene 1" 0 -1 36 0 1 0 0
-cue/022 2300 "p88 Fully Dresse" 0 -1 37 0 1 0 0
-cue/023 2400 "p91 Orphans Exit" 0 -1 38 0 1 0 0
-cue/024 2500 "p95 FDR & Cabine" 0 -1 39 0 1 0 0
-cue/025 2600 "p106 Warbucks Ma" 0 -1 40 0 1 0 0
-cue/026 2700 "p109 Something w" 0 -1 41 0 1 0 0
-cue/027 2800 "p110 Scene 5" 0 -1 42 0 1 0 0
-cue/028 2900 "p112 I Don't Nee" 0 -1 43 0 1 0 0
-cue/029 3000 "p119 Brandeis En" 0 -1 44 0 1 0 0
-cue/030 3100 "p124 Rooster Exi" 0 -1 45 0 1 0 0
-cue/031 3200 "p127 Scene 6" 0 -1 46 0 1 0 0
-cue/032 3300 "p130 Hannigan En" 0 -1 47 0 1 0 0
-cue/033 3400 "p133 Rooster Ent" 0 -1 48 0 1 0 0
-cue/034 3500 "p135 Orphan Sing" 0 -1 49 0 1 0 0
-cue/035 3600 "p137 Crooks Off" 0 -1 50 0 1 0 0
-cue/036 3700 "p141 Bows" 0 -1 52 0 1 0 0
-cue/037 3800 "p141 After Bows" 0 -1 53 0 1 0 0
-cue/038 3900 "p142 End of Show" 0 -1 54 0 1 0 0
+cue/022 2210 "p85 Healy sings" 0 -1 37 0 1 0 0
+cue/023 2300 "p88 Fully Dresse" 0 -1 38 0 1 0 0
+cue/024 2400 "p91 Orphans Exit" 0 -1 39 0 1 0 0
+cue/025 2500 "p95 FDR & Cabine" 0 -1 40 0 1 0 0
+cue/026 2600 "p106 Warbucks Ma" 0 -1 41 0 1 0 0
+cue/027 2700 "p109 Something w" 0 -1 42 0 1 0 0
+cue/028 2800 "p110 Scene 5" 0 -1 43 0 1 0 0
+cue/029 2900 "p112 I Don't Nee" 0 -1 44 0 1 0 0
+cue/030 3000 "p119 Brandeis En" 0 -1 45 0 1 0 0
+cue/031 3100 "p124 Rooster Exi" 0 -1 46 0 1 0 0
+cue/032 3200 "p125 Grace Exits" 0 -1 47 0 1 0 0
+cue/033 3300 "p130 Drake Enter" 0 -1 48 0 1 0 0
+cue/034 3400 "p132 Drake Drake" 0 -1 49 0 1 0 0
+cue/035 3500 "p135 Bye Mom, By" 0 -1 50 0 1 0 0
+cue/036 3600 "p136 Crooks Exit" 0 -1 51 0 1 0 0
+cue/037 3700 "p141 Bows" 0 -1 53 0 1 0 0
+cue/038 3800 "p142 After Bows" 0 -1 54 0 1 0 0
+cue/039 3900 "p142 End of Show" 0 -1 56 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
