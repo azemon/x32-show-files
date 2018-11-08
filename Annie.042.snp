@@ -47,10 +47,10 @@
 /ch/23/grp/dca 0
 /ch/24/grp/dca 0
 /ch/04/mix/on ON
-/dca/1/config/name ""
-/dca/1/config/color OFF
-/dca/2/config/name ""
-/dca/2/config/color OFF
+/dca/1/config/name "Warn"
+/dca/1/config/color BL
+/dca/2/config/name "Warn"
+/dca/2/config/color BL
 /dca/3/config/name ""
 /dca/3/config/color OFF
 /dca/4/config/name ""
@@ -59,7 +59,7 @@
 /dca/5/config/color OFF
 /dca/6/config/name "Warbucks"
 /dca/6/config/color WH
-/dca/7/config/name ""
-/dca/7/config/color OFF
+/dca/7/config/name "Warn"
+/dca/7/config/color BL
 /dca/8/config/name ""
 /dca/8/config/color OFF

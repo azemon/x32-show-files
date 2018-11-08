@@ -1,6 +1,7 @@
 #2.1# "p60 Scene 7" 0 0 0 0 0
 /ch/01/mix/on OFF
 /ch/04/mix/on OFF
+/ch/05/mix/on OFF
 /ch/06/mix/on OFF
 /ch/07/mix/on OFF
 /ch/08/mix/on OFF
@@ -24,7 +25,7 @@
 /ch/02/grp/dca 128
 /ch/03/grp/dca 64
 /ch/04/grp/dca 0
-/ch/05/grp/dca 2
+/ch/05/grp/dca 0
 /ch/06/grp/dca 0
 /ch/07/grp/dca 0
 /ch/08/grp/dca 0
@@ -46,11 +47,10 @@
 /ch/24/grp/dca 0
 /ch/02/mix/on ON
 /ch/03/mix/on ON
-/ch/05/mix/on ON
 /dca/1/config/name ""
 /dca/1/config/color OFF
-/dca/2/config/name "Molly"
-/dca/2/config/color WH
+/dca/2/config/name ""
+/dca/2/config/color OFF
 /dca/3/config/name ""
 /dca/3/config/color OFF
 /dca/4/config/name ""
