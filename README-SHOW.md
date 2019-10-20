@@ -1,5 +1,5 @@
-# Annie the Musical
+# A Funny Thing Happened on the Way to the Forum
 
 Act Two Theatre, St. Peters, MO
 
-November 2018
+November 2019
