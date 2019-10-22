@@ -1,45 +1,64 @@
 #2.6#
 show "Forum" 0 0 0 0 0 0 0 0 0 0 "X32-Edit 3.00"
-cue/000 100 "Preshow" 0 -1 9 0 1 0 0
-cue/001 200 "p1 Top of show" 0 -1 10 0 1 0 0
-cue/002 300 "p7 Hannigan Ente" 0 -1 11 0 1 0 0
-cue/003 400 "p8 Hard Knock Li" 0 -1 12 0 1 0 0
-cue/004 500 "p14 Bundles Ente" 0 -1 13 0 1 0 0
-cue/005 600 "p16 Hard Knock R" 0 -1 14 0 1 0 0
-cue/006 700 "p18 Tomorrow" 0 -1 15 0 1 0 0
-cue/007 800 "p22 Scene 3" 0 -1 16 0 1 0 0
-cue/008 900 "p28 Lt Ward Ente" 0 -1 17 0 1 0 0
-cue/009 1000 "p29 Little Girls" 0 -1 18 0 1 0 0
-cue/010 1100 "p32 Lt Ward Ente" 0 -1 19 0 1 0 0
-cue/011 1200 "p34 Grace Enters" 0 -1 20 0 1 0 0
-cue/012 1300 "p39 Orphans Ente" 0 -1 21 0 1 0 0
-cue/013 1400 "p40 Gonna Like I" 0 -1 22 0 1 0 0
-cue/014 1500 "p46 Warbucks Ent" 0 -1 23 0 1 0 0
-cue/015 1600 "p55 NYC" 0 -1 24 0 1 0 0
-cue/016 1700 "p60 Scene 7" 0 -1 25 0 1 0 0
-cue/017 1800 "p63 Rooster Ente" 0 -1 26 0 1 0 0
-cue/018 1900 "p70 Warbucks Man" 0 -1 27 0 1 0 0
-cue/019 2000 "p71 Drake Enters" 0 -1 28 0 1 0 0
-cue/020 2100 "p80 Intermission" 0 -1 30 0 1 0 0
-cue/021 2200 "p81 Scene 1" 0 -1 36 0 1 0 0
-cue/022 2210 "p85 Healy sings" 0 -1 37 0 1 0 0
-cue/023 2300 "p88 Fully Dresse" 0 -1 38 0 1 0 0
-cue/024 2400 "p91 Orphans Exit" 0 -1 39 0 1 0 0
-cue/025 2500 "p95 FDR & Cabine" 0 -1 40 0 1 0 0
-cue/026 2600 "p106 Warbucks Ma" 0 -1 41 0 1 0 0
-cue/027 2700 "p109 Something w" 0 -1 42 0 1 0 0
-cue/028 2800 "p110 Scene 5" 0 -1 43 0 1 0 0
-cue/029 2900 "p112 I Don't Nee" 0 -1 44 0 1 0 0
-cue/030 3000 "p119 Brandeis En" 0 -1 45 0 1 0 0
-cue/031 3100 "p124 Rooster Exi" 0 -1 46 0 1 0 0
-cue/032 3200 "p125 Grace Exits" 0 -1 47 0 1 0 0
-cue/033 3300 "p130 Drake Enter" 0 -1 48 0 1 0 0
-cue/034 3400 "p132 Drake Drake" 0 -1 49 0 1 0 0
-cue/035 3500 "p135 Bye Mom, By" 0 -1 50 0 1 0 0
-cue/036 3600 "p136 Crooks Exit" 0 -1 51 0 1 0 0
-cue/037 3700 "p141 Bows" 0 -1 53 0 1 0 0
-cue/038 3800 "p142 After Bows" 0 -1 54 0 1 0 0
-cue/039 3900 "p142 End of Show" 0 -1 56 0 1 0 0
+cue/000 100 "p1 Prologus ente" 0 -1 6 0 1 0 0
+cue/001 200 "p2 Proteans ente" 0 -1 7 0 1 0 0
+cue/002 300 "p4 Company enter" 0 -1 8 0 1 0 0
+cue/003 400 "p6 Prologus exit" 0 -1 9 0 1 0 0
+cue/004 500 "p8 Proteans exit" 0 -1 10 0 1 0 0
+cue/005 600 "p10 Senex exits" 0 -1 11 0 1 0 0
+cue/006 700 "p11 Hysterium ex" 0 -1 12 0 1 0 0
+cue/007 800 "p12 Citizens ent" 0 -1 13 0 1 0 0
+cue/008 900 "p14 Citizens exi" 0 -1 14 0 1 0 0
+cue/009 1000 "p20 Lycus enters" 0 -1 15 0 1 0 0
+cue/010 1100 "p30 Pseudolus ex" 0 -1 16 0 1 0 0
+cue/011 1200 "p33 I love you" 0 -1 17 0 1 0 0
+cue/012 1300 "p34 Pseudolus en" 0 -1 18 0 1 0 0
+cue/013 1400 "p36 Hero & Phili" 0 -1 19 0 1 0 0
+cue/014 1500 "p36 Hysterium ex" 0 -1 20 0 1 0 0
+cue/015 1600 "p43 Hero exits" 0 -1 21 0 1 0 0
+cue/016 1700 "p46 Philia exits" 0 -1 22 0 1 0 0
+cue/017 1800 "p48 Hysterium en" 0 -1 23 0 1 0 0
+cue/018 1900 "p50 Lycus enters" 0 -1 24 0 1 0 0
+cue/019 2000 "p51 Lycus exits" 0 -1 25 0 1 0 0
+cue/020 2100 "p52 Pseudolus ex" 0 -1 26 0 1 0 0
+cue/021 2200 "p53 Hysterium ya" 0 -1 27 0 1 0 0
+cue/022 2300 "p55 Pseudolus en" 0 -1 28 0 1 0 0
+cue/023 2400 "p58 Sailors ente" 0 -1 29 0 1 0 0
+cue/024 2500 "p59 Pseudolus ex" 0 -1 30 0 1 0 0
+cue/025 2600 "p63 Pseudolus en" 0 -1 31 0 1 0 0
+cue/026 2700 "p63 Hero exits" 0 -1 32 0 1 0 0
+cue/027 2800 "p64 Fanfare" 0 -1 33 0 1 0 0
+cue/028 2900 "p65 Soldier exit" 0 -1 34 0 1 0 0
+cue/029 3000 "p69 Fanfare" 0 -1 35 0 1 0 0
+cue/030 3100 "p70 Hysterium en" 0 -1 36 0 1 0 0
+cue/031 3200 "p72 Fanfare" 0 -1 37 0 1 0 0
+cue/032 3300 "p74 Fanfare" 0 -1 38 0 1 0 0
+cue/033 3400 "p76 Mid-page" 0 -1 39 0 1 0 0
+cue/034 3500 "p77 Fanfare" 0 -1 40 0 1 0 0
+cue/035 3600 "p81 End of act 1" 0 -1 41 0 1 0 0
+cue/036 3700 "p82 Characters e" 0 -1 51 0 1 0 0
+cue/037 3800 "p83 Prologus exi" 0 -1 52 0 1 0 0
+cue/038 3900 "p85 Erronius ent" 0 -1 53 0 1 0 0
+cue/039 4000 "p86 Senex appear" 0 -1 54 0 1 0 0
+cue/040 4100 "p87 Pseudolus en" 0 -1 55 0 1 0 0
+cue/041 4200 "p89 Domina last " 0 -1 56 0 1 0 0
+cue/042 4300 "p91 Pseudolus en" 0 -1 57 0 1 0 0
+cue/043 4400 "p93 Senex enters" 0 -1 58 0 1 0 0
+cue/044 4500 "p94 Miles exits" 0 -1 59 0 1 0 0
+cue/045 4600 "p96 Pseudolus en" 0 -1 60 0 1 0 0
+cue/046 4700 "p97 Hero exits" 0 -1 61 0 1 0 0
+cue/047 4800 "p100 Soldiers en" 0 -1 62 0 1 0 0
+cue/048 4900 "p102 Funeral Seq" 0 -1 63 0 1 0 0
+cue/049 5000 "p105 There is no" 0 -1 64 0 1 0 0
+cue/050 5100 "p109 Hero appear" 0 -1 65 0 1 0 0
+cue/051 5200 "p110 Hero exits" 0 -1 66 0 1 0 0
+cue/052 5300 "p112 Miles enter" 0 -1 67 0 1 0 0
+cue/053 5400 "p113 Sieze that " 0 -1 68 0 1 0 0
+cue/054 5500 "p114 Pseudolus e" 0 -1 69 0 1 0 0
+cue/055 5600 "p116 Lycus enter" 0 -1 70 0 1 0 0
+cue/056 5700 "p118 Finale Ulti" 0 -1 71 0 1 0 0
+cue/057 5800 "p119 All" 0 -1 72 0 1 0 0
+cue/058 5900 "p120 Curtain" 0 -1 73 0 1 0 0
 scene/000 "power on" "" %000000000 1
 snippet/000 "" 0 0 0 0 1
 snippet/001 "" 0 0 0 0 1
@@ -47,74 +66,74 @@ snippet/002 "" 0 0 0 0 1
 snippet/003 "" 0 0 0 0 1
 snippet/004 "" 0 0 0 0 1
 snippet/005 "" 0 0 0 0 1
-snippet/006 "" 0 0 0 0 1
-snippet/007 "" 0 0 0 0 1
-snippet/008 "" 0 0 0 0 1
-snippet/009 "Preshow" 0 0 0 0 1
-snippet/010 "p1 Top of show" 0 0 0 0 1
-snippet/011 "p7 Hannigan Ente" 0 0 0 0 1
-snippet/012 "p8 Hard Knock Li" 0 0 0 0 1
-snippet/013 "p14 Bundles Ente" 0 0 0 0 1
-snippet/014 "p16 Hard Knock R" 0 0 0 0 1
-snippet/015 "p18 Tomorrow" 0 0 0 0 1
-snippet/016 "p22 Scene 3" 0 0 0 0 1
-snippet/017 "p28 Lt Ward Ente" 0 0 0 0 1
-snippet/018 "p29 Little Girls" 0 0 0 0 1
-snippet/019 "p32 Lt Ward Ente" 0 0 0 0 1
-snippet/020 "p34 Grace Enters" 0 0 0 0 1
-snippet/021 "p39 Orphans Ente" 0 0 0 0 1
-snippet/022 "p40 Gonna Like I" 0 0 0 0 1
-snippet/023 "p46 Warbucks Ent" 0 0 0 0 1
-snippet/024 "p55 NYC" 0 0 0 0 1
-snippet/025 "p60 Scene 7" 0 0 0 0 1
-snippet/026 "p63 Rooster Ente" 0 0 0 0 1
-snippet/027 "p70 Warbucks Man" 0 0 0 0 1
-snippet/028 "p71 Drake Enters" 0 0 0 0 1
-snippet/029 "" 0 0 0 0 1
-snippet/030 "p80 Intermission" 0 0 0 0 1
-snippet/031 "" 0 0 0 0 1
-snippet/032 "" 0 0 0 0 1
-snippet/033 "" 0 0 0 0 1
-snippet/034 "" 0 0 0 0 1
-snippet/035 "" 0 0 0 0 1
-snippet/036 "p81 Scene 1" 0 0 0 0 1
-snippet/037 "p85 Healy sings" 0 0 0 0 1
-snippet/038 "p88 Fully Dresse" 0 0 0 0 1
-snippet/039 "p91 Orphans Exit" 0 0 0 0 1
-snippet/040 "p95 FDR & Cabine" 0 0 0 0 1
-snippet/041 "p106 Warbucks Ma" 0 0 0 0 1
-snippet/042 "p109 Something w" 0 0 0 0 1
-snippet/043 "p110 Scene 5" 0 0 0 0 1
-snippet/044 "p112 I Don't Nee" 0 0 0 0 1
-snippet/045 "p119 Brandeis En" 0 0 0 0 1
-snippet/046 "p124 Rooster Exi" 0 0 0 0 1
-snippet/047 "p125 Grace Exits" 0 0 0 0 1
-snippet/048 "p130 Drake Enter" 0 0 0 0 1
-snippet/049 "p132 Drake Drake" 0 0 0 0 1
-snippet/050 "p135 Bye Mom, By" 0 0 0 0 1
-snippet/051 "p136 Crooks Exit" 0 0 0 0 1
-snippet/052 "" 0 0 0 0 1
-snippet/053 "p141 Bows" 0 0 0 0 1
-snippet/054 "p142 After Bows" 0 0 0 0 1
-snippet/055 "" 0 0 0 0 1
-snippet/056 "p142 End of Show" 0 0 0 0 1
-snippet/057 "" 0 0 0 0 1
-snippet/058 "" 0 0 0 0 1
-snippet/059 "" 0 0 0 0 1
-snippet/060 "" 0 0 0 0 1
-snippet/061 "" 0 0 0 0 1
-snippet/062 "" 0 0 0 0 1
-snippet/063 "" 0 0 0 0 1
-snippet/064 "" 0 0 0 0 1
-snippet/065 "" 0 0 0 0 1
-snippet/066 "" 0 0 0 0 1
-snippet/067 "" 0 0 0 0 1
-snippet/068 "" 0 0 0 0 1
-snippet/069 "" 0 0 0 0 1
-snippet/070 "" 0 0 0 0 1
-snippet/071 "" 0 0 0 0 1
-snippet/072 "" 0 0 0 0 1
-snippet/073 "" 0 0 0 0 1
+snippet/006 "p1 Prologus ente" 0 0 0 0 1
+snippet/007 "p2 Proteans ente" 0 0 0 0 1
+snippet/008 "p4 Company enter" 0 0 0 0 1
+snippet/009 "p6 Prologus exit" 0 0 0 0 1
+snippet/010 "p8 Proteans exit" 0 0 0 0 1
+snippet/011 "p10 Senex exits" 0 0 0 0 1
+snippet/012 "p11 Hysterium ex" 0 0 0 0 1
+snippet/013 "p12 Citizens ent" 0 0 0 0 1
+snippet/014 "p14 Citizens exi" 0 0 0 0 1
+snippet/015 "p20 Lycus enters" 0 0 0 0 1
+snippet/016 "p30 Pseudolus ex" 0 0 0 0 1
+snippet/017 "p33 I love you" 0 0 0 0 1
+snippet/018 "p34 Pseudolus en" 0 0 0 0 1
+snippet/019 "p36 Hero & Phili" 0 0 0 0 1
+snippet/020 "p36 Hysterium ex" 0 0 0 0 1
+snippet/021 "p43 Hero exits" 0 0 0 0 1
+snippet/022 "p46 Philia exits" 0 0 0 0 1
+snippet/023 "p48 Hysterium en" 0 0 0 0 1
+snippet/024 "p50 Lycus enters" 0 0 0 0 1
+snippet/025 "p51 Lycus exits" 0 0 0 0 1
+snippet/026 "p52 Pseudolus ex" 0 0 0 0 1
+snippet/027 "p53 Hysterium ya" 0 0 0 0 1
+snippet/028 "p55 Pseudolus en" 0 0 0 0 1
+snippet/029 "p58 Sailors ente" 0 0 0 0 1
+snippet/030 "p59 Pseudolus ex" 0 0 0 0 1
+snippet/031 "p63 Pseudolus en" 0 0 0 0 1
+snippet/032 "p63 Hero exits" 0 0 0 0 1
+snippet/033 "p64 Fanfare" 0 0 0 0 1
+snippet/034 "p65 Soldier exit" 0 0 0 0 1
+snippet/035 "p69 Fanfare" 0 0 0 0 1
+snippet/036 "p70 Hysterium en" 0 0 0 0 1
+snippet/037 "p72 Fanfare" 0 0 0 0 1
+snippet/038 "p74 Fanfare" 0 0 0 0 1
+snippet/039 "p76 Mid-page" 0 0 0 0 1
+snippet/040 "p77 Fanfare" 0 0 0 0 1
+snippet/041 "p81 End of act 1" 0 0 0 0 1
+snippet/042 "" 0 0 0 0 1
+snippet/043 "" 0 0 0 0 1
+snippet/044 "" 0 0 0 0 1
+snippet/045 "" 0 0 0 0 1
+snippet/046 "" 0 0 0 0 1
+snippet/047 "" 0 0 0 0 1
+snippet/048 "" 0 0 0 0 1
+snippet/049 "" 0 0 0 0 1
+snippet/050 "" 0 0 0 0 1
+snippet/051 "p82 Characters e" 0 0 0 0 1
+snippet/052 "p83 Prologus exi" 0 0 0 0 1
+snippet/053 "p85 Erronius ent" 0 0 0 0 1
+snippet/054 "p86 Senex appear" 0 0 0 0 1
+snippet/055 "p87 Pseudolus en" 0 0 0 0 1
+snippet/056 "p89 Domina last " 0 0 0 0 1
+snippet/057 "p91 Pseudolus en" 0 0 0 0 1
+snippet/058 "p93 Senex enters" 0 0 0 0 1
+snippet/059 "p94 Miles exits" 0 0 0 0 1
+snippet/060 "p96 Pseudolus en" 0 0 0 0 1
+snippet/061 "p97 Hero exits" 0 0 0 0 1
+snippet/062 "p100 Soldiers en" 0 0 0 0 1
+snippet/063 "p102 Funeral Seq" 0 0 0 0 1
+snippet/064 "p105 There is no" 0 0 0 0 1
+snippet/065 "p109 Hero appear" 0 0 0 0 1
+snippet/066 "p110 Hero exits" 0 0 0 0 1
+snippet/067 "p112 Miles enter" 0 0 0 0 1
+snippet/068 "p113 Sieze that " 0 0 0 0 1
+snippet/069 "p114 Pseudolus e" 0 0 0 0 1
+snippet/070 "p116 Lycus enter" 0 0 0 0 1
+snippet/071 "p118 Finale Ulti" 0 0 0 0 1
+snippet/072 "p119 All" 0 0 0 0 1
+snippet/073 "p120 Curtain" 0 0 0 0 1
 snippet/074 "" 0 0 0 0 1
 snippet/075 "" 0 0 0 0 1
 snippet/076 "" 0 0 0 0 1
