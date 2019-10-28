@@ -31,8 +31,8 @@
 /ch/16/grp/dca 0
 /ch/03/mix/on ON
 /ch/05/mix/on ON
-/dca/1/config/name ""
-/dca/1/config/color OFF
+/dca/1/config/name "Pseudolus"
+/dca/1/config/color WH
 /dca/2/config/name ""
 /dca/2/config/color OFF
 /dca/3/config/name ""
@@ -41,9 +41,9 @@
 /dca/4/config/color OFF
 /dca/5/config/name ""
 /dca/5/config/color OFF
-/dca/6/config/name "Hero"
-/dca/6/config/color WH
-/dca/7/config/name ""
-/dca/7/config/color OFF
+/dca/6/config/name ""
+/dca/6/config/color OFF
+/dca/7/config/name "Hero"
+/dca/7/config/color WH
 /dca/8/config/name ""
 /dca/8/config/color OFF

@@ -31,8 +31,8 @@
 /ch/15/grp/dca 0
 /ch/16/grp/dca 0
 /ch/05/mix/on ON
-/dca/1/config/name ""
-/dca/1/config/color OFF
+/dca/1/config/name "Prologus"
+/dca/1/config/color WH
 /dca/2/config/name ""
 /dca/2/config/color OFF
 /dca/3/config/name ""

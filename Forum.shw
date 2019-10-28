@@ -1,4 +1,4 @@
-#2.6#
+#2.7#
 show "Forum" 0 0 0 0 0 0 0 0 0 0 "X32-Edit 3.00"
 cue/000 100 "p1 Prologus ente" 0 -1 6 0 1 0 0
 cue/001 200 "p2 Proteans ente" 0 -1 7 0 1 0 0

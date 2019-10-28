@@ -35,10 +35,10 @@
 /dca/1/config/color OFF
 /dca/2/config/name ""
 /dca/2/config/color OFF
-/dca/3/config/name "Prologus"
-/dca/3/config/color WH
-/dca/4/config/name ""
-/dca/4/config/color OFF
+/dca/3/config/name ""
+/dca/3/config/color OFF
+/dca/4/config/name "Prologus"
+/dca/4/config/color WH
 /dca/5/config/name ""
 /dca/5/config/color OFF
 /dca/6/config/name ""

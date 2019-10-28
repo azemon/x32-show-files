@@ -35,10 +35,10 @@
 /dca/1/config/color OFF
 /dca/2/config/name ""
 /dca/2/config/color OFF
-/dca/3/config/name "Warn"
-/dca/3/config/color BL
-/dca/4/config/name ""
-/dca/4/config/color OFF
+/dca/3/config/name ""
+/dca/3/config/color OFF
+/dca/4/config/name "Warn"
+/dca/4/config/color BL
 /dca/5/config/name ""
 /dca/5/config/color OFF
 /dca/6/config/name ""
