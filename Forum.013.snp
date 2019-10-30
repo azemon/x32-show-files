@@ -1,4 +1,4 @@
-#2.1# "p12 Citizens enter" 0 0 0 0 0
+#2.1# "p14 Citizens exit" 0 0 0 0 0
 /ch/01/mix/on OFF
 /ch/02/mix/on OFF
 /ch/04/mix/on OFF
@@ -10,6 +10,9 @@
 /ch/11/mix/on OFF
 /ch/12/mix/on OFF
 /ch/13/mix/on OFF
+/ch/14/mix/on OFF
+/ch/15/mix/on OFF
+/ch/16/mix/on OFF
 /ch/01/grp/dca 0
 /ch/02/grp/dca 0
 /ch/03/grp/dca 64
@@ -23,14 +26,11 @@
 /ch/11/grp/dca 0
 /ch/12/grp/dca 0
 /ch/13/grp/dca 0
-/ch/14/grp/dca 128
-/ch/15/grp/dca 128
-/ch/16/grp/dca 128
+/ch/14/grp/dca 0
+/ch/15/grp/dca 0
+/ch/16/grp/dca 0
 /ch/03/mix/on ON
 /ch/05/mix/on ON
-/ch/14/mix/on ON
-/ch/15/mix/on ON
-/ch/16/mix/on ON
 /dca/1/config/name "Pseudolus"
 /dca/1/config/color WH
 /dca/2/config/name ""
@@ -45,5 +45,5 @@
 /dca/6/config/color OFF
 /dca/7/config/name "Hero"
 /dca/7/config/color WH
-/dca/8/config/name "Proteans"
-/dca/8/config/color WH
+/dca/8/config/name ""
+/dca/8/config/color OFF

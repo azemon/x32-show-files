@@ -1,7 +1,6 @@
-#2.1# "p36 Hysterium exits" 0 0 0 0 0
+#2.1# "p41 Hysterium enters" 0 0 0 0 0
 /ch/01/mix/on OFF
 /ch/02/mix/on OFF
-/ch/04/mix/on OFF
 /ch/06/mix/on OFF
 /ch/07/mix/on OFF
 /ch/08/mix/on OFF
@@ -15,7 +14,7 @@
 /ch/01/grp/dca 0
 /ch/02/grp/dca 0
 /ch/03/grp/dca 64
-/ch/04/grp/dca 0
+/ch/04/grp/dca 32
 /ch/05/grp/dca 1
 /ch/06/grp/dca 0
 /ch/07/grp/dca 0
@@ -29,6 +28,7 @@
 /ch/15/grp/dca 0
 /ch/16/grp/dca 0
 /ch/03/mix/on ON
+/ch/04/mix/on ON
 /ch/05/mix/on ON
 /ch/09/mix/on ON
 /dca/1/config/name "Pseudolus"
@@ -41,8 +41,8 @@
 /dca/4/config/color OFF
 /dca/5/config/name ""
 /dca/5/config/color OFF
-/dca/6/config/name ""
-/dca/6/config/color OFF
+/dca/6/config/name "Hysterium"
+/dca/6/config/color WH
 /dca/7/config/name "Hero"
 /dca/7/config/color WH
 /dca/8/config/name ""
