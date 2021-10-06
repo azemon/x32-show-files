@@ -1,0 +1,142 @@
+#4.0#
+show "Blithe" 0 0 0 0 0 0 0 0 0 0 "X32-Edit 4.00"
+cue/000 100 "p1 Curtain speec" 0 -1 5 0 1 0 0
+cue/001 200 "p1 Act 1 Scene 1" 0 -1 6 0 1 0 0
+cue/002 300 "p2 Edith exit" 0 -1 7 0 1 0 0
+cue/003 400 "p3 Edith exit" 0 -1 8 0 1 0 0
+cue/004 500 "p7 Door banging" 0 -1 9 0 1 0 0
+cue/005 600 "p7 Edith exit" 0 -1 10 0 1 0 0
+cue/006 700 "p9 Doorbell" 0 -1 11 0 1 0 0
+cue/007 800 "p9 Madame Arcati" 0 -1 12 0 1 0 0
+cue/008 900 "p12 Curtain" 0 -1 13 0 1 0 0
+cue/009 1000 "p12 Act 1 Scene " 0 -1 14 0 1 0 0
+cue/010 1100 "p14 Edith enter" 0 -1 15 0 1 0 0
+cue/011 1200 "p14 Edith exit" 0 -1 16 0 1 0 0
+cue/012 1300 "p20 Table falls " 0 -1 17 0 1 0 0
+cue/013 1400 "p21 Lights on" 0 -1 18 0 1 0 0
+cue/014 1500 "p26 Bradmans exi" 0 -1 19 0 1 0 0
+cue/015 1600 "p29 Ruth exit" 0 -1 20 0 1 0 0
+cue/016 1700 "p31 Blackout" 0 -1 21 0 1 0 0
+cue/017 1800 "p32 Act 2 Scene " 0 -1 51 0 1 0 0
+cue/018 1900 "p33 Edith exit" 0 -1 52 0 1 0 0
+cue/019 2000 "p36 Edith enter" 0 -1 53 0 1 0 0
+cue/020 2100 "p37 Edith exit" 0 -1 54 0 1 0 0
+cue/021 2200 "p39 Elvira enter" 0 -1 55 0 1 0 0
+cue/022 2300 "p43 Curtain" 0 -1 56 0 1 0 0
+cue/023 2400 "p43 Act 2 Scene " 0 -1 57 0 1 0 0
+cue/024 2500 "p44 Edith exit" 0 -1 58 0 1 0 0
+cue/025 2600 "p49 Arcati exit" 0 -1 59 0 1 0 0
+cue/026 2700 "p52 Ruth exit" 0 -1 60 0 1 0 0
+cue/027 2800 "p53 Curtain" 0 -1 61 0 1 0 0
+cue/028 2900 "p54 Act 2 Scene " 0 -1 62 0 1 0 0
+cue/029 3000 "p55 Dr Brad ente" 0 -1 63 0 1 0 0
+cue/030 3100 "p56 Charles ente" 0 -1 64 0 1 0 0
+cue/031 3200 "p57 Bradmans exi" 0 -1 65 0 1 0 0
+cue/032 3300 "p59 Elvira enter" 0 -1 66 0 1 0 0
+cue/033 3400 "p60 Ruth exit" 0 -1 67 0 1 0 0
+cue/034 3500 "p62 Curtain" 0 -1 68 0 1 0 0
+cue/035 3600 "p63 Act 3 Scene " 0 -1 69 0 1 0 0
+cue/036 3700 "p65 Elvira enter" 0 -1 70 0 1 0 0
+cue/037 3800 "p74 Ruth enter" 0 -1 71 0 1 0 0
+cue/038 3900 "p74 Blackout" 0 -1 72 0 1 0 0
+cue/039 4000 "p75 Act 3 Scene " 0 -1 73 0 1 0 0
+cue/040 4100 "p77 Please wake " 0 -1 74 0 1 0 0
+cue/041 4200 "p80 Edith enter" 0 -1 75 0 1 0 0
+cue/042 4300 "p83 Lights off" 0 -1 76 0 1 0 0
+cue/043 4400 "p84 Edith exit" 0 -1 77 0 1 0 0
+cue/044 4500 "p85 Arcati exit" 0 -1 78 0 1 0 0
+cue/045 4600 "p86 Curtain" 0 -1 79 0 1 0 0
+snippet/000 "" 0 0 0 0 1
+snippet/001 "" 0 0 0 0 1
+snippet/002 "" 0 0 0 0 1
+snippet/003 "" 0 0 0 0 1
+snippet/004 "" 0 0 0 0 1
+snippet/005 "p1 Curtain speec" 0 0 0 0 1
+snippet/006 "p1 Act 1 Scene 1" 0 0 0 0 1
+snippet/007 "p2 Edith exit" 0 0 0 0 1
+snippet/008 "p3 Edith exit" 0 0 0 0 1
+snippet/009 "p7 Door banging" 0 0 0 0 1
+snippet/010 "p7 Edith exit" 0 0 0 0 1
+snippet/011 "p9 Doorbell" 0 0 0 0 1
+snippet/012 "p9 Madame Arcati" 0 0 0 0 1
+snippet/013 "p12 Curtain" 0 0 0 0 1
+snippet/014 "p12 Act 1 Scene " 0 0 0 0 1
+snippet/015 "p14 Edith enter" 0 0 0 0 1
+snippet/016 "p14 Edith exit" 0 0 0 0 1
+snippet/017 "p20 Table falls " 0 0 0 0 1
+snippet/018 "p21 Lights on" 0 0 0 0 1
+snippet/019 "p26 Bradmans exi" 0 0 0 0 1
+snippet/020 "p29 Ruth exit" 0 0 0 0 1
+snippet/021 "p31 Blackout" 0 0 0 0 1
+snippet/022 "" 0 0 0 0 1
+snippet/023 "" 0 0 0 0 1
+snippet/024 "" 0 0 0 0 1
+snippet/025 "" 0 0 0 0 1
+snippet/026 "" 0 0 0 0 1
+snippet/027 "" 0 0 0 0 1
+snippet/028 "" 0 0 0 0 1
+snippet/029 "" 0 0 0 0 1
+snippet/030 "" 0 0 0 0 1
+snippet/031 "" 0 0 0 0 1
+snippet/032 "" 0 0 0 0 1
+snippet/033 "" 0 0 0 0 1
+snippet/034 "" 0 0 0 0 1
+snippet/035 "" 0 0 0 0 1
+snippet/036 "" 0 0 0 0 1
+snippet/037 "" 0 0 0 0 1
+snippet/038 "" 0 0 0 0 1
+snippet/039 "" 0 0 0 0 1
+snippet/040 "" 0 0 0 0 1
+snippet/041 "" 0 0 0 0 1
+snippet/042 "" 0 0 0 0 1
+snippet/043 "" 0 0 0 0 1
+snippet/044 "" 0 0 0 0 1
+snippet/045 "" 0 0 0 0 1
+snippet/046 "" 0 0 0 0 1
+snippet/047 "" 0 0 0 0 1
+snippet/048 "" 0 0 0 0 1
+snippet/049 "" 0 0 0 0 1
+snippet/050 "" 0 0 0 0 1
+snippet/051 "p32 Act 2 Scene " 0 0 0 0 1
+snippet/052 "p33 Edith exit" 0 0 0 0 1
+snippet/053 "p36 Edith enter" 0 0 0 0 1
+snippet/054 "p37 Edith exit" 0 0 0 0 1
+snippet/055 "p39 Elvira enter" 0 0 0 0 1
+snippet/056 "p43 Curtain" 0 0 0 0 1
+snippet/057 "p43 Act 2 Scene " 0 0 0 0 1
+snippet/058 "p44 Edith exit" 0 0 0 0 1
+snippet/059 "p49 Arcati exit" 0 0 0 0 1
+snippet/060 "p52 Ruth exit" 0 0 0 0 1
+snippet/061 "p53 Curtain" 0 0 0 0 1
+snippet/062 "p54 Act 2 Scene " 0 0 0 0 1
+snippet/063 "p55 Dr Brad ente" 0 0 0 0 1
+snippet/064 "p56 Charles ente" 0 0 0 0 1
+snippet/065 "p57 Bradmans exi" 0 0 0 0 1
+snippet/066 "p59 Elvira enter" 0 0 0 0 1
+snippet/067 "p60 Ruth exit" 0 0 0 0 1
+snippet/068 "p62 Curtain" 0 0 0 0 1
+snippet/069 "p63 Act 3 Scene " 0 0 0 0 1
+snippet/070 "p65 Elvira enter" 0 0 0 0 1
+snippet/071 "p74 Ruth enter" 0 0 0 0 1
+snippet/072 "p74 Blackout" 0 0 0 0 1
+snippet/073 "p75 Act 3 Scene " 0 0 0 0 1
+snippet/074 "p77 Please wake " 0 0 0 0 1
+snippet/075 "p80 Edith enter" 0 0 0 0 1
+snippet/076 "p83 Lights off" 0 0 0 0 1
+snippet/077 "p84 Edith exit" 0 0 0 0 1
+snippet/078 "p85 Arcati exit" 0 0 0 0 1
+snippet/079 "p86 Curtain" 0 0 0 0 1
+snippet/080 "" 0 0 0 0 1
+snippet/081 "" 0 0 0 0 1
+snippet/082 "" 0 0 0 0 1
+snippet/083 "" 0 0 0 0 1
+snippet/084 "" 0 0 0 0 1
+snippet/085 "" 0 0 0 0 1
+snippet/086 "" 0 0 0 0 1
+snippet/087 "" 0 0 0 0 1
+snippet/088 "" 0 0 0 0 1
+snippet/089 "" 0 0 0 0 1
+snippet/090 "" 0 0 0 0 1
+snippet/091 "" 0 0 0 0 1
+snippet/092 "" 0 0 0 0 1
+snippet/093 "" 0 0 0 0 1
