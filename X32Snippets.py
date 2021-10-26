@@ -59,9 +59,11 @@ def ods_cell(d, r, c):
         cell = row[c]
     except IndexError:
         cell = ''
-    #print "DEBUG: cell " + str(r) + "/" + str(c) + " is type " + str(type(cell))
-    if type(cell) == unicode:
-        cell = cell.encode('utf-8')
+    # try:
+    #     if type(cell) == str:
+    #         cell = cell.encode('utf-8')
+    # except:
+    #     print("DEBUG: cell " + str(r) + "/" + str(c) + " is type " + str(type(cell)))
     return cell
 
 
@@ -113,17 +115,17 @@ class Cue(object):
 
 if __name__ == "__main__":
 
-    print "#####################"
-    print "# X32 Snippets v%s #" % (VERSION,)
-    print "#####################"
+    print("#####################")
+    print("# X32 Snippets v%s #" % (VERSION,))
+    print("#####################")
 
     #
     # validate command-line parameters
     #
 
     if len(sys.argv) != 3:
-        print "";
-        print "Usage: X32Snippets.py <ods_file_name> <show_name>"
+        print("")
+        print("Usage: X32Snippets.py <ods_file_name> <show_name>")
         sys.exit(0)
 
     #
@@ -174,7 +176,7 @@ if __name__ == "__main__":
             cue_list.append(cue)
 
         # report snippet
-        print "Found snippet %s: %s" % (snippet_number, snippet_name)
+        print("Found snippet %s: %s" % (snippet_number, snippet_name))
 
         # open snippet file
         snp_file = open(show_name + '.' + str(snp_index).zfill(3) + '.snp', 'w')
@@ -252,10 +254,10 @@ if __name__ == "__main__":
                         cue_list.sort(key=lambda cue: cue.cue_number)
                         for c in range(0, len(cue_list)):
                             cue = cue_list[c]
-                            print 'Created cue %s: %s' % (cue.cue_number, cue.cue_name)
+                            print('Created cue %s: %s' % (cue.cue_number, cue.cue_name))
                             shw.write(cue.shw_file_line(c))
         except IOError:
-            print 'ERROR: Cannot add cues to .shw file. Assure that %s exists and is writable' % (shw_filename,)
+            print('ERROR: Cannot add cues to .shw file. Assure that %s exists and is writable' % (shw_filename,))
 
     # all done
-    print "Goodbye!"
+    print("Goodbye!")
