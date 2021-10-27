@@ -53,17 +53,11 @@ NUM_DCAS = 8
 ################################################################################
 
 def ods_cell(d, r, c):
-
     row = d[r]
     try:
         cell = row[c]
     except IndexError:
         cell = ''
-    # try:
-    #     if type(cell) == str:
-    #         cell = cell.encode('utf-8')
-    # except:
-    #     print("DEBUG: cell " + str(r) + "/" + str(c) + " is type " + str(type(cell)))
     return cell
 
 
