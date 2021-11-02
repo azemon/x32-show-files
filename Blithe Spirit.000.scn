@@ -1694,8 +1694,8 @@
 /bus/13/mix OFF   0.0 ON +0 OFF   0.0
 /bus/13/mix/01 ON   -oo +0 POST 0
 /bus/13/mix/02 ON   -oo
-/bus/13/mix/03 ON   0.0 +0 POST 0
-/bus/13/mix/04 ON   0.0
+/bus/13/mix/03 ON   -oo +0 POST 0
+/bus/13/mix/04 ON   -oo
 /bus/13/mix/05 ON   -oo +0 POST 0
 /bus/13/mix/06 ON   -oo
 /bus/13/grp %00000000 %000000
@@ -1748,7 +1748,7 @@
 /bus/16/eq/4 PEQ 1k97 +0.00 2.0
 /bus/16/eq/5 PEQ 5k02 +0.00 2.0
 /bus/16/eq/6 HShv 10k02 +0.00 2.0
-/bus/16/mix OFF -89.5 OFF +0 OFF   -oo
+/bus/16/mix OFF   -oo OFF +0 OFF   -oo
 /bus/16/mix/01 ON   -oo +0 POST 0
 /bus/16/mix/02 ON   -oo
 /bus/16/mix/03 ON   -oo +0 POST 0
@@ -1768,7 +1768,7 @@
 /mtx/01/eq/4 PEQ 1k97 +2.00 1.0
 /mtx/01/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/01/eq/6 HShv 18k03 -9.00 2.0
-/mtx/01/mix ON  +0.5
+/mtx/01/mix ON   0.0
 /mtx/01/grp %00000000 %000000
 /mtx/02/config "Phone" 72 MG
 /mtx/02/preamp OFF
@@ -2116,11 +2116,3 @@
 /headamp/125 +0.0 OFF
 /headamp/126 +0.0 OFF
 /headamp/127 +0.0 OFF
-/-stat/selidx Ch07
-/-stat/chfaderbank 0
-/-stat/grpfaderbank 0
-/-stat/sendsonfader OFF
-/-stat/bussendbank 0
-/-stat/eqband 0
-/-stat/userbank 0
-/-stat/dcaspill 0
