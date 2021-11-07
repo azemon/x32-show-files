@@ -8,7 +8,7 @@ cue/004 400 "p3 Edith exit" 0 -1 8 0 1 0 0
 cue/005 500 "p7 Door banging" 0 -1 9 0 1 0 0
 cue/006 600 "p7 Edith exit" 0 -1 10 0 1 0 0
 cue/007 700 "p9 Doorbell" 0 -1 11 0 1 0 0
-cue/008 800 "p9 It was all ar" 0 -1 12 0 1 0 0
+cue/008 800 "p9 Edith exit" 0 -1 12 0 1 0 0
 cue/009 810 "p12 Door opens" 0 -1 13 0 1 0 0
 cue/010 900 "p12 Curtain" 0 -1 14 0 1 0 0
 cue/011 1000 "p12 Act 1 Scene " 0 -1 15 0 1 0 0

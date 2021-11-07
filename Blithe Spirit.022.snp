@@ -31,8 +31,8 @@
 /ch/14/grp/dca 0
 /ch/15/grp/dca 0
 /ch/16/grp/dca 0
-/dca/1/config/name "Warn"
-/dca/1/config/color BL
+/dca/1/config/name ""
+/dca/1/config/color OFF
 /dca/2/config/name "Warn"
 /dca/2/config/color BL
 /dca/3/config/name ""

@@ -1,6 +1,5 @@
 #2.1# "p9 Doorbell" 0 0 0 0 0
 /ch/03/mix/on OFF
-/ch/04/mix/on OFF
 /ch/08/mix/on OFF
 /ch/09/mix/on OFF
 /ch/10/mix/on OFF
@@ -13,7 +12,7 @@
 /ch/01/grp/dca 1
 /ch/02/grp/dca 2
 /ch/03/grp/dca 0
-/ch/04/grp/dca 0
+/ch/04/grp/dca 8
 /ch/05/grp/dca 16
 /ch/06/grp/dca 32
 /ch/07/grp/dca 64
@@ -28,6 +27,7 @@
 /ch/16/grp/dca 0
 /ch/01/mix/on ON
 /ch/02/mix/on ON
+/ch/04/mix/on ON
 /ch/05/mix/on ON
 /ch/06/mix/on ON
 /ch/07/mix/on ON
@@ -37,8 +37,8 @@
 /dca/2/config/color WH
 /dca/3/config/name ""
 /dca/3/config/color OFF
-/dca/4/config/name "Warn"
-/dca/4/config/color BL
+/dca/4/config/name "Arcati"
+/dca/4/config/color WH
 /dca/5/config/name "Dr Brad"
 /dca/5/config/color WH
 /dca/6/config/name "Mrs Brad"
