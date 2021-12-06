@@ -1,11 +1,9 @@
-#2.1# "" 0 0 0 0 0
+#2.1# "p32 Lights UP" 0 0 0 0 0
 /ch/01/mix/on OFF
-/ch/02/mix/on OFF
 /ch/03/mix/on OFF
 /ch/04/mix/on OFF
 /ch/05/mix/on OFF
 /ch/06/mix/on OFF
-/ch/07/mix/on OFF
 /ch/08/mix/on OFF
 /ch/09/mix/on OFF
 /ch/10/mix/on OFF
@@ -16,12 +14,12 @@
 /ch/15/mix/on OFF
 /ch/16/mix/on OFF
 /ch/01/grp/dca 0
-/ch/02/grp/dca 0
+/ch/02/grp/dca 2
 /ch/03/grp/dca 0
 /ch/04/grp/dca 0
 /ch/05/grp/dca 0
 /ch/06/grp/dca 0
-/ch/07/grp/dca 0
+/ch/07/grp/dca 64
 /ch/08/grp/dca 0
 /ch/09/grp/dca 0
 /ch/10/grp/dca 0
@@ -31,10 +29,12 @@
 /ch/14/grp/dca 0
 /ch/15/grp/dca 0
 /ch/16/grp/dca 0
-/dca/1/config/name ""
-/dca/1/config/color OFF
-/dca/2/config/name ""
-/dca/2/config/color OFF
+/ch/02/mix/on ON
+/ch/07/mix/on ON
+/dca/1/config/name "Warn"
+/dca/1/config/color BL
+/dca/2/config/name "Ruth"
+/dca/2/config/color WH
 /dca/3/config/name ""
 /dca/3/config/color OFF
 /dca/4/config/name ""
@@ -43,7 +43,7 @@
 /dca/5/config/color OFF
 /dca/6/config/name ""
 /dca/6/config/color OFF
-/dca/7/config/name ""
-/dca/7/config/color OFF
+/dca/7/config/name "Edith"
+/dca/7/config/color WH
 /dca/8/config/name ""
 /dca/8/config/color OFF
